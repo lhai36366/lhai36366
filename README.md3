@@ -4488,6 +4488,1719 @@ Concepts
 Security (WPF)
 WPF Security Strategy - Platform Security
 WPF Security Strategy - Security Engineering
+   #iero¤¤. ¤./
+          .__ _  _
+          ||_|-\|_|
+                .__ _  _
+                ||_|-\|_|          
+                 .__ _  _
+                 ||_|-\|_|
+         .__ _  _
+         ||_|-\|_|
+            .__ _  _
+            ||_|-\|_|
+          .__ _  _
+          ||_|-\|_|
+                .__ _  _
+                ||_|-\|_|          
+                 .__ _  _
+                 ||_|-\|_|
+         .__ _  _
+         ||_|-\|_|
+            .__ _  _
+            ||_|-\|_|
+          .__ _  _
+          ||_|-\|_|
+                .__ _  _
+                ||_|-\|_|          
+                 .__ _  _
+                 ||_|-\|_|
+         .__ _  _
+         ||_|-\|_|
+            .__ _  _
+            ||_|-\|_|
+          .__ _  _
+          ||_|-\|_|
+                .__ _  _
+                ||_|-\|_|          
+                 .__ _  _
+                 ||_|-\|_|
+         .__ _  _
+         ||_|-\|_|
+            .__ _  _
+            ||_|-\|_|
+
+Selected Papers in Anonymity
+
+Anonymity Bibliography | Selected Papers in Anonymity
+
+By topic | By date | By author
+
+Years:
+
+1977
+1978
+1981
+1985
+1988
+1990
+1991
+1993
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+Publications by date
+
+1977
+
+Non-Discretionary Access Control for Decentralized Computing Systems (PDF) (Cached: PDF)
+by Paul A. Karger.
+Laboratory for Computer Science, Massachusetts Institute of Technology S. M. amp; E. E. thesis MIT/LCS/TR-179, May 1977. (BibTeX entry)·
+Chapter 11, "Limitations of End-to-End Encryption," has some early discussion of traffic analysis issues.
+1978
+
+Limitations of End-to-End Encryption in Secure Computer Networks (PDF) (Cached: PDF)
+by Michael A. Padlipsky, David W. Snow, and Paul A. Karger.
+The MITRE Corporation: Bedford MA, HQ Electronic Systems Division technical report ESD-TR-78-158, August 1978. (BibTeX entry)·
+1981
+
+Untraceable electronic mail, return addresses, and digital pseudonyms (HTML, PDF, TXT) (Cached: HTML, PDF, TXT)
+by David Chaum.
+In Communications of the ACM 24(2), February 1981. (BibTeX entry)·
+1985
+
+Networks Without User Observability – Design Options (HTML) (Cached: HTML)
+by Andreas Pfitzmann and Michael Waidner.
+In the Proceedings of EUROCRYPT 1985, April 1985. (BibTeX entry)·
+Security without Identification: Transaction Systems to Make Big Brother Obsolete
+by David Chaum.
+In CACM 28(10), October 1985. (BibTeX entry)·
+1988
+
+The Dining Cryptographers Problem: Unconditional Sender and Recipient Untraceability (PDF) (Cached: PDF)
+by David Chaum.
+In Journal of Cryptology 1, 1988, pages 65-75. (BibTeX entry)·
+1990
+
+The dining cryptographers in the disco: Unconditional Sender and Recipient Untraceability (gzipped PS) (Cached: gzipped PS)
+by Michael Waidner and Birgit Pfitzmann.
+In the Proceedings of EUROCRYPT 1989, 1990. (BibTeX entry)·
+1991
+
+ISDN-mixes: Untraceable communication with very small bandwidth overhead (gzipped PS) (Cached: gzipped PS)
+by Andreas Pfitzmann, Birgit Pfitzmann, and Michael Waidner.
+In the Proceedings of the GI/ITG Conference on Communication in Distributed Systems, February 1991, pages 451-463. (BibTeX entry)·
+1993
+
+Cryptographic Defense Against Traffic Analysis (PS) (Cached: PS, gzipped PS)
+by Charles Rackoff and Daniel R. Simon.
+In the Proceedings of ACM Symposium on Theory of Computing, 1993, pages 672-681. (BibTeX entry)·
+Efficient anonymous channel and all/nothing election scheme
+by C. Park, K. Itoh, and K. Kurosawa.
+In the Proceedings of EUROCRYPT 1993, May 1993, pages 248-259. (BibTeX entry)·
+1995
+
+Receipt-Free MIX-Type Voting Scheme - A Practical Solution to the Implementation of a Voting Booth
+by Joe Kilian and Kazue Sako.
+In the Proceedings of EUROCRYPT 1995, May 1995. (BibTeX entry)·
+Preserving Privacy in a Network of Mobile Computers (PDF) (Cached: PDF)
+by David A. Cooper and Kenneth P. Birman.
+In the Proceedings of the 1995 IEEE Symposium on Security and Privacy, May 1995. (BibTeX entry)·
+1996
+
+The Eternity Service (HTML, PS) (Cached: HTML, PS, gzipped PS)
+by Ross Anderson.
+In the Proceedings of Pragocrypt '96, 1996. (BibTeX entry)·
+Mixing E-mail With Babel (HTML, PS) (Cached: HTML, PS, gzipped PS)
+by Ceki Gülcü and Gene Tsudik.
+In the Proceedings of the Network and Distributed Security Symposium - NDSS '96, February 1996, pages 2-16. (BibTeX entry)·
+Hiding Routing Information (PDF, gzipped PS) (Cached: PDF, gzipped PS)
+by David M. Goldschlag, Michael G. Reed, and Paul F. Syverson.
+In the Proceedings of Information Hiding: First International Workshop, May 1996, pages 137-150. (BibTeX entry)·
+Prospects for Remailers (HTML) (Cached: HTML)
+by Sameer Parekh.
+In First Monday 1(2), August 1996. (BibTeX entry)·
+1997
+
+Privacy-enhancing Technologies for the Internet (PS) (Cached: PS, gzipped PS)
+by Ian Goldberg, David Wagner, and Eric Brewer.
+In the Proceedings of the 42nd IEEE Spring COMPCON, February 1997. (BibTeX entry)·
+1998
+
+Universally Verifiable mix-net With Verification Work Independent of The Number of mix Servers
+by Masayuki Abe.
+In the Proceedings of EUROCRYPT 1998, 1998. (BibTeX entry)·
+Stop-and-Go MIXes: Providing Probabilistic Anonymity in an Open System (PDF) (Cached: PDF)
+by Dogan Kesdogan, Jan Egner, and Roland Büschkes.
+In the Proceedings of Information Hiding Workshop (IH 1998), 1998. (BibTeX entry)·
+Real-Time MIXes: A Bandwidth-Efficient Anonymity Protocol (HTML) (Cached: HTML)
+by Anja Jerichow, Jan Müller, Andreas Pfitzmann, Birgit Pfitzmann, and Michael Waidner.
+In IEEE Journal on Selected Areas in Communications 16(4), 1998. (BibTeX entry)·
+PipeNet 1.0 (HTML) (Cached: HTML)
+by Wei Dai.
+Post to Cypherpunks mailing list, January 1998. (BibTeX entry)·
+First written in 1996 based on cypherpunks posts in 1995.
+Crowds: Anonymity for Web Transactions (PDF, gzipped PS) (Cached: PDF, gzipped PS)
+by Michael Reiter and Aviel Rubin.
+In ACM Transactions on Information and System Security 1(1), June 1998. (BibTeX entry)·
+TAZ servers and the rewebber network: Enabling anonymous publishing on the world wide web (HTML, PS) (Cached: HTML, PS, gzipped PS)
+by Ian Goldberg and David Wagner.
+In First Monday 3(4), August 1998. (BibTeX entry)·
+The Design, Implementation and Operation of an Email Pseudonym Server (PDF, gzipped PS) (Cached: PDF, gzipped PS)
+by David Mazières and M. Frans Kaashoek.
+In the Proceedings of the 5th ACM Conference on Computer and Communications Security (CCS 1998), November 1998. (BibTeX entry)·
+PipeNet 1.1 (TXT) (Cached: TXT)
+by Wei Dai.
+Post to Cypherpunks mailing list, November 1998. (BibTeX entry)·
+Cypherpunks post at http://cypherpunks.venona.com/date/1998/11/msg00941.html
+1999
+
+Flash Mixing (PDF) (Cached: PDF)
+by Markus Jakobsson.
+In the Proceedings of Principles of Distributed Computing - PODC '99, 1999. (BibTeX entry)·
+Group Principals and the Formalization of Anonymity (PDF, PS) (Cached: PDF, PS, gzipped PS)
+by Paul F. Syverson and Stuart G. Stubblebine.
+In the Proceedings of the World Congress on Formal Methods (1), 1999, pages 814-833. (BibTeX entry)·
+2000
+
+How To Break a Practical MIX and Design a New One (HTML) (Cached: HTML)
+by Yvo Desmedt and Kaoru Kurosawa.
+In the Proceedings of EUROCRYPT 2000, 2000. (BibTeX entry)·
+A Length-Invariant Hybrid MIX
+by Miyako Ohkubo and Masayuki Abe.
+In the Proceedings of ASIACRYPT 2000, 2000. (BibTeX entry)·
+Attack for Flash MIX (HTML) (Cached: HTML)
+by Masashi Mitomo and Kaoru Kurosawa.
+In the Proceedings of ASIACRYPT 2000, 2000. (BibTeX entry)·
+Onion Routing Access Configurations (abstract, PDF, PS, gzipped PS) (Cached: abstract, PDF, PS, gzipped PS)
+by Paul Syverson, Michael Reed, and David Goldschlag.
+In the Proceedings of the DARPA Information Survivability Conference and Exposition (DISCEX 2000), 2000, pages 34-40. (BibTeX entry)·
+Xor-trees for efficient anonymous multicast and reception (PS) (Cached: PS, gzipped PS)
+by Shlomi Dolev and Rafail Ostrobsky.
+In ACM Trans. Inf. Syst. Secur 3(2), 2000, pages 63-84. (BibTeX entry)·
+Anonymity, Unobservability, and Pseudonymity: A Consolidated Proposal for Terminology (HTML) (Cached: HTML, PDF)
+by Andreas Pfitzmann and Marit Hansen.
+Draft, July 2000. (BibTeX entry)·
+Traffic Analysis: Protocols, Attacks, Design Issues, and Open Problems (PDF, PS) (Cached: PDF, PS, gzipped PS)
+by Jean-François Raymond.
+In the Proceedings of Designing Privacy Enhancing Technologies: Workshop on Design Issues in Anonymity and Unobservability, July 2000, pages 10-29. (BibTeX entry)·
+The disadvantages of free MIX routes and how to overcome them (PDF) (Cached: PDF)
+by Oliver Berthold, Andreas Pfitzmann, and Ronny Standtke.
+In the Proceedings of Designing Privacy Enhancing Technologies: Workshop on Design Issues in Anonymity and Unobservability, July 2000, pages 30-45. (BibTeX entry)·
+The Free Haven Project: Distributed Anonymous Storage Service (PS) (Cached: PS, gzipped PS)
+by Roger Dingledine, Michael J. Freedman, and David Molnar.
+In the Proceedings of Designing Privacy Enhancing Technologies: Workshop on Design Issues in Anonymity and Unobservability, July 2000. (BibTeX entry)·
+Freenet: A Distributed Anonymous Information Storage and Retrieval System (PDF, DOI) (Cached: HTML, PDF)
+by Ian Clarke, Oskar Sandberg, Brandon Wiley, and Theodore W. Hong.
+In the Proceedings of Designing Privacy Enhancing Technologies: Workshop on Design Issues in Anonymity and Unobservability, July 2000, pages 46-66. (BibTeX entry)·
+Towards an Analysis of Onion Routing Security (gzipped PS) (Cached: gzipped PS)
+by Paul Syverson, Gene Tsudik, Michael Reed, and Carl Landwehr.
+In the Proceedings of Designing Privacy Enhancing Technologies: Workshop on Design Issues in Anonymity and Unobservability, July 2000, pages 96-114. (BibTeX entry)·
+Web MIXes: A system for anonymous and unobservable Internet access (PDF) (Cached: PDF)
+by Oliver Berthold, Hannes Federrath, and Stefan Köpsell.
+In the Proceedings of Designing Privacy Enhancing Technologies: Workshop on Design Issues in Anonymity and Unobservability, July 2000, pages 115-129. (BibTeX entry)·
+Publius: A robust, tamper-evident, censorship-resistant and source-anonymous web publishing system (PDF) (Cached: PDF)
+by Marc Waldman, Aviel Rubin, and Lorrie Cranor.
+In the Proceedings of the 9th USENIX Security Symposium, August 2000, pages 59-72. (BibTeX entry)·
+Can Pseudonymity Really Guarantee Privacy? (PDF) (Cached: PDF)
+by Josyula R. Rao and Pankaj Rohatgi.
+In the Proceedings of the 9th USENIX Security Symposium, August 2000, pages 85-96. (BibTeX entry)·
+Freedom Systems 2.0 Architecture (PDF) (Cached: PDF)
+by Philippe Boucher, Adam Shostack, and Ian Goldberg.
+Zero Knowledge Systems, Inc. White Paper , December 2000. (BibTeX entry)·
+A Pseudonymous Communications Infrastructure for the Internet (PDF) (Cached: PDF)
+by Ian Goldberg.
+Ph.D. thesis, UC Berkeley, December 2000. (BibTeX entry)·
+2001
+
+An Optimally Robust Hybrid Mix Network (Extended Abstract) (HTML) (Cached: HTML)
+by Markus Jakobsson and Ari Juels.
+In the Proceedings of Principles of Distributed Computing - PODC '01, 2001. (BibTeX entry)·
+An Efficient Scheme for Proving a Shuffle (PDF) (Cached: PDF)
+by Jun Furukawa and Kazue Sako.
+In the Proceedings of CRYPTO 2001, 2001. (BibTeX entry)·
+The social cost of cheap pseudonyms (PDF) (Cached: HTML, PDF)
+by Eric Friedman and Paul Resnick.
+In Journal of Economics and Management Strategy 10(2), 2001, pages 173-199. (BibTeX entry)·
+Authentic Attributes with Fine-Grained Anonymity Protection (PDF, PS) (Cached: PDF, PS, gzipped PS)
+by Stuart Stubblebine and Paul Syverson.
+In the Proceedings of Financial Cryptography (FC 2000), 2001, pages 276-294. (BibTeX entry)·
+A Reputation System to Increase MIX-net Reliability (PDF, PS) (Cached: PDF, PS, gzipped PS)
+by Roger Dingledine, Michael J. Freedman, David Hopwood, and David Molnar.
+In the Proceedings of Information Hiding Workshop (IH 2001), April 2001, pages 126-141. (BibTeX entry)·
+Real World Patterns of Failure in Anonymity Systems (PDF) (Cached: PDF)
+by Richard Clayton, George Danezis, and Markus G. Kuhn.
+In the Proceedings of Information Hiding Workshop (IH 2001), April 2001, pages 230-244. (BibTeX entry)·
+Traffic Analysis Attacks and Trade-Offs in Anonymity Providing Systems (PDF) (Cached: PDF)
+by Adam Back, Ulf Möller, and Anton Stiglic.
+In the Proceedings of Information Hiding Workshop (IH 2001), April 2001, pages 245-257. (BibTeX entry)·
+The Strong Eternity Service (PDF) (Cached: PDF)
+by Tonda Benes.
+In the Proceedings of Information Hiding Workshop (IH 2001), April 2001. (BibTeX entry)·
+Freedom Systems 2.1 Security Issues and Analysis (PDF) (Cached: PDF)
+by Adam Back, Ian Goldberg, and Adam Shostack.
+Zero Knowledge Systems, Inc. White Paper , May 2001. (BibTeX entry)·
+A Verifiable Secret Shuffle and its Application to E-Voting (PDF) (Cached: PDF)
+by C. Andrew Neff.
+In the Proceedings of the 8th ACM Conference on Computer and Communications Security (CCS 2001), November 2001, pages 116-125. (BibTeX entry)·
+Tangler: a censorship-resistant publishing system based on document entanglements (PS) (Cached: PS, gzipped PS)
+by Marc Waldman and David Mazières.
+In the Proceedings of the 8th ACM Conference on Computer and Communications Security (CCS 2001), November 2001, pages 126-135. (BibTeX entry)·
+2002
+
+Hordes — A Multicast Based Protocol for Anonymity (PDF) (Cached: PDF)
+by Brian Neil Levine and Clay Shields.
+In Journal of Computer Security 10(3), 2002, pages 213-240. (BibTeX entry)·
+Don't Shoot the Messenger: Limiting the Liability of Anonymous Remailers
+by Robyn Wagner.
+In New Mexico Law Review 32(Winter), 2002, pages 99-142. (BibTeX entry)·
+An Analysis of the Degradation of Anonymous Protocols (PDF) (Cached: PDF, PS)
+by Matthew Wright, Micah Adler, Brian Neil Levine, and Clay Shields.
+In the Proceedings of the Network and Distributed Security Symposium - NDSS '02, February 2002. (BibTeX entry)·
+Reliable MIX Cascade Networks through Reputation (PDF, PS) (Cached: PDF, PS, gzipped PS)
+by Roger Dingledine and Paul Syverson.
+In the Proceedings of Financial Cryptography (FC '02), March 2002. (BibTeX entry)·
+The Sybil Attack (PDF) (Cached: PDF)
+by John Douceur.
+In the Proceedings of the 1st International Peer To Peer Systems Workshop (IPTPS 2002), March 2002. (BibTeX entry)·
+Anonymizing censorship resistant systems (PS) (Cached: PDF, PS, gzipped PS)
+by Andrei Serjantov.
+In the Proceedings of the 1st International Peer To Peer Systems Workshop (IPTPS 2002), March 2002. (BibTeX entry)·
+Privacy-enhancing technologies for the Internet, II: Five years later (PDF, PS) (Cached: PDF, PS, gzipped PS)
+by Ian Goldberg.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2002), April 2002. (BibTeX entry)·
+Fingerprinting Websites Using Traffic Analysis (HTML, PDF, PS) (Cached: HTML, PDF, PS, gzipped PS)
+by Andrew Hintz.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2002), April 2002. (BibTeX entry)·
+Dummy Traffic Against Long Term Intersection Attacks (PDF) (Cached: PDF)
+by Oliver Berthold and Heinrich Langos.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2002), April 2002. (BibTeX entry)·
+Towards measuring anonymity (PDF) (Cached: PDF, gzipped PS)
+by Claudia Diaz, Stefaan Seys, Joris Claessens, and Bart Preneel.
+In the Proceedings of Privacy Enhancing Technologies Workshop (PET 2002), April 2002. (BibTeX entry)·
+Towards an Information Theoretic Metric for Anonymity (PS) (Cached: PS, gzipped PS)
+by Andrei Serjantov and George Danezis.
+In the Proceedings of Privacy Enhancing Technologies Workshop (PET 2002), April 2002. (BibTeX entry)·
+Unobservable Surfing on the World Wide Web: Is Private Information Retrieval an alternative to the MIX based Approach? (PDF) (Cached: PDF)
+by Dogan Kesdogan, Mark Borning, and Michael Schmeink.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2002), April 2002. (BibTeX entry)·
+A Passive Attack on the Privacy of Web Users Using Standard Log Information (PDF) (Cached: PDF)
+by Thomas Demuth.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2002), April 2002. (BibTeX entry)·
+P5: A Protocol for Scalable Anonymous Communication (PDF, PS) (Cached: PDF, PS, gzipped PS)
+by Rob Sherwood, Bobby Bhattacharjee, and Aravind Srinivasan.
+In the Proceedings of the 2002 IEEE Symposium on Security and Privacy, May 2002. (BibTeX entry)·
+Statistical Identification of Encrypted Web Browsing Traffic (PDF) (Cached: PDF)
+by Qixiang Sun, Daniel R. Simon, Yi-Min Wang, Wilf Russell, Venkata N. Padmanabhan, and Lili Qiu.
+In the Proceedings of the 2002 IEEE Symposium on Security and Privacy, Berkeley, California, May 2002. (BibTeX entry)·
+Analysis of an Anonymity Network for Web Browsing (PDF, gzipped PS) (Cached: PDF, gzipped PS)
+by Marc Rennhard, Sandro Rafaeli, Laurent Mathy, Bernhard Plattner, and David Hutchison.
+In the Proceedings of the IEEE 7th Intl. Workshop on Enterprise Security (WET ICE 2002), Pittsburgh, USA, June 2002, pages 49-54. (BibTeX entry)·
+Cebolla: Pragmatic IP Anonymity (PDF) (Cached: PDF)
+by Zach Brown.
+In the Proceedings of the 2002 Ottawa Linux Symposium, June 2002. (BibTeX entry)·
+Written by a former Freedom developer, Cebolla has a UDP-based design similar to second-generation Freedom. The initiator incrementally builds her circuit, giving her end-to-end forward-secrecy and also better recovery from broken nodes.
+Efficient Sharing of Encrypted Data (PS) (Cached: PS, gzipped PS)
+by Krista Bennett, Christian Grothoff, Tzvetan Horozov, and Ioana Patrascu.
+In the Proceedings of ASCIP 2002, July 2002, pages 107-120. (BibTeX entry)·
+Making mix nets robust for electronic voting by randomized partial checking (PDF) (Cached: PDF)
+by Markus Jakobsson, Ari Juels, and Ronald L. Rivest.
+In the Proceedings of the 11th USENIX Security Symposium, August 2002. (BibTeX entry)·
+Infranet: Circumventing Web Censorship and Surveillance (PDF, gzipped PS) (Cached: PDF, gzipped PS)
+by Nick Feamster, Magdalena Balazinska, Greg Harfst, Hari Balakrishnan, and David Karger.
+In the Proceedings of the 11th USENIX Security Symposium, August 2002. (BibTeX entry)·
+From a Trickle to a Flood: Active Attacks on Several Mix Types (PDF, PS) (Cached: PDF, PS, gzipped PS)
+by Andrei Serjantov, Roger Dingledine, and Paul Syverson.
+In the Proceedings of Information Hiding Workshop (IH 2002), October 2002. (BibTeX entry)·
+Limits of Anonymity in Open Environments (PDF) (Cached: PDF)
+by Dogan Kesdogan, Dakshi Agrawal, and Stefan Penz.
+In the Proceedings of Information Hiding Workshop (IH 2002), October 2002. (BibTeX entry)·
+Chaffinch: Confidentiality in the Face of Legal Threats (HTML, PDF) (Cached: HTML, PDF)
+by Richard Clayton and George Danezis.
+In the Proceedings of Information Hiding Workshop (IH 2002), October 2002. (BibTeX entry)·
+Inter-Packet Delay Based Correlation for Tracing Encrypted Connections through Stepping Stones (PDF) (Cached: PDF)
+by Xinyuan Wang, Douglas S. Reeves, and S. Felix Wu.
+In the Proceedings of ESORICS 2002, October 2002, pages 244-263. (BibTeX entry)·
+Tarzan: A Peer-to-Peer Anonymizing Network Layer (PDF) (Cached: PDF)
+by Michael J. Freedman and Robert Morris.
+In the Proceedings of the 9th ACM Conference on Computer and Communications Security (CCS 2002), Washington, DC, November 2002. (BibTeX entry)·
+Almost Entirely Correct Mixing With Application to Voting (PDF) (Cached: PDF)
+by Dan Boneh and Philippe Golle.
+In the Proceedings of the 9th ACM Conference on Computer and Communications Security (CCS 2002), Washington, DC, November 2002, pages 68-77. (BibTeX entry)·
+Introducing MorphMix: Peer-to-Peer based Anonymous Internet Usage with Collusion Detection (PDF, gzipped PS) (Cached: PDF, gzipped PS)
+by Marc Rennhard and Bernhard Plattner.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2002), Washington, DC, USA, November 2002. (BibTeX entry)·
+Forward Secure Mixes (PDF) (Cached: PDF)
+by George Danezis.
+In the Proceedings of 7th Nordic Workshop on Secure IT Systems, Karlstad, Sweden, November 2002, pages 195-207. (BibTeX entry)·
+2003
+
+Buses for Anonymous Message Delivery (PS) (Cached: PS, gzipped PS)
+by Amos Beimel and Shlomi Dolev.
+In Journal of Cryptology 16(1), 2003, pages 25-39. (BibTeX entry)·
+Active Traffic Analysis Attacks and Countermeasures (PDF) (Cached: PDF)
+by Xinwen Fu, Bryan Graham, Riccardo Bettati, and Wei Zhao.
+In the Proceedings of the 2003 International Conference on Computer Networks and Mobile Computing, 2003, pages 31-39. (BibTeX entry)·
+Analytical and Empirical Analysis of Countermeasures to Traffic Analysis Attacks (PDF) (Cached: PDF)
+by Xinwen Fu, Bryan Graham, Riccardo Bettati, and Wei Zhao.
+In the Proceedings of the 2003 International Conference on Parallel Processing, 2003, pages 483-492. (BibTeX entry)·
+On the Economics of Anonymity (PDF) (Cached: PDF)
+by Alessandro Acquisti, Roger Dingledine, and Paul Syverson.
+In the Proceedings of Financial Cryptography (FC '03), January 2003. (BibTeX entry)·
+Herbivore: A Scalable and Efficient Protocol for Anonymous Communication (PDF) (Cached: PDF)
+by Sharad Goel, Mark Robson, Milo Polte, and Emin Gun Sirer.
+Cornell University technical report 2003-1890, February 2003. (BibTeX entry)·
+Mix-networks with Restricted Routes (PDF) (Cached: PDF)
+by George Danezis.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2003), March 2003, pages 1-17. (BibTeX entry)·
+Generalising Mixes (gzipped PS) (Cached: gzipped PS)
+by Claudia Diaz and Andrei Serjantov.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2003), March 2003, pages 18-31. (BibTeX entry)·
+Modelling Unlinkability (PDF) (Cached: PDF)
+by Sandra Steinbrecher and Stefan Köpsell.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2003), March 2003, pages 32-47. (BibTeX entry)·
+Metrics for Traffic Analysis Prevention (PS) (Cached: PS, gzipped PS)
+by Richard E. Newman, Ira S. Moskowitz, Paul Syverson, and Andrei Serjantov.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2003), March 2003, pages 48-65. (BibTeX entry)·
+Breaking and Mending Resilient Mix-nets (PDF) (Cached: PDF)
+by Lan Nguyen and Rei Safavi-Naini.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2003), March 2003, pages 66-80. (BibTeX entry)·
+GAP – Practical anonymous networking (PS) (Cached: PS, gzipped PS)
+by Krista Bennett and Christian Grothoff.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2003), March 2003, pages 141-160. (BibTeX entry)·
+An Analysis of GNUnet and the Implications for Anonymous, Censorship-Resistant Networks (PDF) (Cached: PDF)
+by Dennis Kügler.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2003), March 2003, pages 161-176. (BibTeX entry)·
+Thwarting Web Censorship with Untrusted Messenger Delivery (PDF) (Cached: PDF)
+by Nick Feamster, Magdalena Balazinska, Winston Wang, Hari Balakrishnan, and David Karger.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2003), March 2003, pages 125-140. (BibTeX entry)·
+Provably Secure Public-Key Encryption for Length-Preserving Chaumian Mixes (PDF) (Cached: PDF)
+by Bodo Möller.
+In the Proceedings of CT-RSA 2003, April 2003. (BibTeX entry)·
+Mixminion: Design of a Type III Anonymous Remailer Protocol (PDF) (Cached: PDF)
+by George Danezis, Roger Dingledine, and Nick Mathewson.
+In the Proceedings of the 2003 IEEE Symposium on Security and Privacy, May 2003, pages 2-15. (BibTeX entry)·
+Probabilistic Treatment of MIXes to Hamper Traffic Analysis (PDF) (Cached: PDF)
+by Dakshi Agrawal, Dogan Kesdogan, and Stefan Penz.
+In the Proceedings of the 2003 IEEE Symposium on Security and Privacy, May 2003, pages 16-27. (BibTeX entry)·
+Defending Anonymous Communication Against Passive Logging Attacks (PDF) (Cached: PDF, PS)
+by Matthew Wright, Micah Adler, Brian Neil Levine, and Clay Shields.
+In the Proceedings of the 2003 IEEE Symposium on Security and Privacy, May 2003, pages 28-43. (BibTeX entry)·
+Statistical Disclosure Attacks: Traffic Confirmation in Open Environments (PDF) (Cached: PDF)
+by George Danezis.
+In the Proceedings of Security and Privacy in the Age of Uncertainty, (SEC2003), Athens, May 2003, pages 421-426. (BibTeX entry)·
+On the Anonymity of Timed Pool Mixes (PS) (Cached: PS, gzipped PS)
+by Andrei Serjantov and Richard E. Newman.
+In the Proceedings of the Workshop on Privacy and Anonymity Issues in Networked and Distributed Systems, Athens, Greece, May 2003, pages 427-434. (BibTeX entry)·
+An Excess-Based Economic Model for Resource Allocation in Peer-to-Peer Networks (PS) (Cached: PS, gzipped PS)
+by Christian Grothoff.
+In Wirtschaftsinformatik, June 2003. (BibTeX entry)·
+Practical Anonymity for the Masses with Mix-Networks (PDF, gzipped PS) (Cached: PDF, gzipped PS)
+by Marc Rennhard and Bernhard Plattner.
+In the Proceedings of the IEEE 8th Intl. Workshop on Enterprise Security (WET ICE 2003), Linz, Austria, June 2003. (BibTeX entry)·
+Reputation in P2P Anonymity Systems (PDF) (Cached: PDF)
+by Roger Dingledine, Nick Mathewson, and Paul Syverson.
+In the Proceedings of Workshop on Economics of Peer-to-Peer Systems, June 2003. (BibTeX entry)·
+Mixmaster Protocol — Version 2 (TXT) (Cached: TXT)
+by Ulf Möller, Lance Cottrell, Peter Palfrader, and Len Sassaman.
+IETF Internet Draft, July 2003. (BibTeX entry)·
+Using Caching for Browsing Anonymity (PDF) (Cached: PDF)
+by Anna Shubina and Sean Smith.
+In ACM SIGEcom Exchanges 4(2), September 2003. (BibTeX entry)·
+Reusable Anonymous Return Channels (PDF, PS) (Cached: PDF, PS, gzipped PS)
+by Philippe Golle and Markus Jakobsson.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2003), Washington, DC, USA, October 2003. (BibTeX entry)·
+Reencryption mix-nets can allow users to use a single reply channel even when they maintain multiple separate nyms (think of it like a reply block but it looks different each time you give it to somebody).
+Heartbeat Traffic to Counter (n-1) Attacks (PDF) (Cached: PDF)
+by George Danezis and Len Sassaman.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2003), Washington, DC, USA, October 2003. (BibTeX entry)·
+Mix nodes should send out "heartbeat" messages (dummies that start and end at that node). By measuring how many return in a given time, they can detect whether the adversary is dropping or delaying traffic coming into them (possibly so he can launch an active blending attack).
+New Covert Channels in HTTP: Adding Unwitting Web Browsers to Anonymity Sets (PS) (Cached: PS, gzipped PS)
+by Matthias Bauer.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2003), Washington, DC, USA, October 2003. (BibTeX entry)·
+Anonymity sets in deployed systems are small because few people think it's worthwhile to use them. But we can take advantage of ordinary web users to transfer messages (that is, mix them) from one webserver to another via cookies and http redirect tricks. Senders and receivers should also look like ordinary web users, so anonymity sets are large.
+Passive Attack Analysis for Connection-Based Anonymity Systems (PS) (Cached: PS, gzipped PS)
+by Andrei Serjantov and Peter Sewell.
+In the Proceedings of ESORICS 2003, October 2003. (BibTeX entry)·
+An investigation of packet counting attacks (which work best on lightly loaded networks) and connection-start timing attacks.
+Rapid Mixing and Security of Chaum's Visual Electronic Voting (PDF) (Cached: PDF)
+by Marcin Gomulkiewicz, Marek Klonowski, and Miroslaw Kutylowski.
+In the Proceedings of ESORICS 2003, October 2003. (BibTeX entry)·
+Receiver Anonymity via Incomparable Public Keys (PDF, PS) (Cached: PDF, PS, gzipped PS)
+by Brent Waters, Ed Felten, and Amit Sahai.
+In the Proceedings of the 10th ACM Conference on Computer and Communications Security (CCS 2003), October 2003, pages 112-121. (BibTeX entry)·
+k-Anonymous Message Transmission (PDF) (Cached: PDF)
+by Luis von Ahn, Andrew Bortz, and Nicholas J. Hopper.
+In the Proceedings of the 10th ACM Conference on Computer and Communications Security (CCS 2003), October 2003, pages 122-130. (BibTeX entry)·
+2004
+
+Probabilistic Model Checking of an Anonymity System (PS) (Cached: PS, gzipped PS)
+by Vitaly Shmatikov.
+In Journal of Computer Security 12(3-4), 2004, pages 355-377. (BibTeX entry)·
+Uses formal methods to analyze probabilistic anonymity systems like Crowds. Confirms that anonymity degrades with a larger crowd: as N grows, the fact that the request came from you becomes more suspicious.
+Information Hiding, Anonymity and Privacy: A Modular Approach (PS) (Cached: PS, gzipped PS)
+by Dominic Hughes and Vitaly Shmatikov.
+In Journal of Computer Security 12(1), 2004, pages 3-36. (BibTeX entry)·
+Anonymity and Information Hiding in Multiagent Systems (PDF) (Cached: PDF)
+by Joseph Y. Halpern and Kevin R. O'Neill.
+In Journal of Computer Security, 2004. (BibTeX entry)·
+Measuring Anonymity in a Non-adaptive, Real-time System (PDF) (Cached: PDF)
+by Gergely Tóth and Zoltán Hornák.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2004), 2004, pages 226-241. (BibTeX entry)·
+A formalization of anonymity and onion routing (PDF) (Cached: PDF)
+by S. Mauw, J. Verschuren, and E.P. de Vink.
+In the Proceedings of ESORICS 2004, Sophia Antipolis, 2004, pages 109-124. (BibTeX entry)·
+Universal Re-Encryption for Mixnets (PDF) (Cached: PDF)
+by Philippe Golle, Markus Jakobsson, Ari Juels, and Paul Syverson.
+In the Proceedings of the 2004 RSA Conference, Cryptographer's track, San Francisco, USA, February 2004. (BibTeX entry)·
+Provable Unlinkability Against Traffic Analysis (PDF) (Cached: PDF)
+by Ron Berman, Amos Fiat, and Amnon Ta-Shma.
+In the Proceedings of Financial Cryptography (FC '04), February 2004, pages 266-280. (BibTeX entry)·
+Timing Attacks in Low-Latency Mix-Based Systems (PDF) (Cached: PDF)
+by Brian N. Levine, Michael K. Reiter, Chenxi Wang, and Matthew K. Wright.
+In the Proceedings of Financial Cryptography (FC '04), February 2004, pages 251-265. (BibTeX entry)·
+Practical Anonymity for the Masses with MorphMix (PDF) (Cached: PDF)
+by Marc Rennhard and Bernhard Plattner.
+In the Proceedings of Financial Cryptography (FC '04), February 2004, pages 233-250. (BibTeX entry)·
+The Economics of Censorship Resistance (PDF) (Cached: PDF)
+by George Danezis and Ross Anderson.
+In the Proceedings of Workshop on Economics and Information Security (WEIS04), May 2004. (BibTeX entry)·
+Statistical Disclosure or Intersection Attacks on Anonymity Systems (PS) (Cached: PS, gzipped PS)
+by George Danezis and Andrei Serjantov.
+In the Proceedings of 6th Information Hiding Workshop (IH 2004), Toronto, May 2004. (BibTeX entry)·
+Reasoning about the Anonymity Provided by Pool Mixes that Generate Dummy Traffic (PDF) (Cached: PDF)
+by Claudia Diaz and Bart Preneel.
+In the Proceedings of 6th Information Hiding Workshop (IH 2004), Toronto, May 2004. (BibTeX entry)·
+The Hitting Set Attack on Anonymity Protocols (PDF) (Cached: PDF)
+by Dogan Kesdogan and Lexi Pimenidis.
+In the Proceedings of 6th Information Hiding Workshop (IH 2004), Toronto, May 2004. (BibTeX entry)·
+Anonymity and Covert Channels in Simple Timed Mix-firewalls (PDF, PS) (Cached: PDF, PS, gzipped PS)
+by Richard E. Newman, Vipan R. Nalla, and Ira S. Moskowitz.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2004), May 2004, pages 1-16. (BibTeX entry)·
+If we think about leaked anonymity as a covert channel between the sender Alice and the adversary Eve, then by measuring covert channel capacity we can get an upper bound on the amount of information Alice could leak.
+Practical Traffic Analysis: Extending and Resisting Statistical Disclosure (PDF) (Cached: PDF)
+by Nick Mathewson and Roger Dingledine.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2004), May 2004, pages 17-34. (BibTeX entry)·
+The Traffic Analysis of Continuous-Time Mixes (PDF) (Cached: PDF)
+by George Danezis.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2004), May 2004, pages 35-50. (BibTeX entry)·
+Reputable Mix Networks (PDF) (Cached: PDF)
+by Philippe Golle.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2004), May 2004, pages 51-63. (BibTeX entry)·
+An Improved Construction for Universal Re-encryption (PDF) (Cached: PDF)
+by Peter Fairbrother.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2004), May 2004, pages 79-87. (BibTeX entry)·
+Synchronous Batching: From Cascades to Free Routes (PDF, PS) (Cached: PDF, PS, gzipped PS)
+by Roger Dingledine, Vitaly Shmatikov, and Paul Syverson.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2004), May 2004, pages 186-206. (BibTeX entry)·
+On Flow Correlation Attacks and Countermeasures in Mix Networks (PDF) (Cached: PDF)
+by Ye Zhu, Xinwen Fu, Bryan Graham, Riccardo Bettati, and Wei Zhao.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2004), May 2004, pages 207-225. (BibTeX entry)·
+Dining Cryptographers Revisited (PDF) (Cached: PDF)
+by Philippe Golle and Ari Juels.
+In the Proceedings of Eurocrypt 2004, May 2004. (BibTeX entry)·
+On the Anonymity of Anonymity Systems (PS) (Cached: PS, gzipped PS)
+by Andrei Serjantov.
+Ph.D. thesis, University of Cambridge, June 2004. (BibTeX entry)·
+Better Anonymous Communications (PDF) (Cached: PDF)
+by George Danezis.
+Ph.D. thesis, University of Cambridge, July 2004. (BibTeX entry)·
+Universal Re-encryption of Signatures and Controlling Anonymous Information Flow (PDF) (Cached: PDF)
+by Marek Klonowski, Miroslaw Kutylowski, Anna Lauks, and Filip Zagorski.
+In the Proceedings of WARTACRYPT '04, July 2004. (BibTeX entry)·
+Tor: The Second-Generation Onion Router (HTML, PDF) (Cached: HTML, PDF)
+by Roger Dingledine, Nick Mathewson, and Paul Syverson.
+In the Proceedings of the 13th USENIX Security Symposium, August 2004. (BibTeX entry)·
+Taxonomy of Mixes and Dummy Traffic (PDF) (Cached: PDF)
+by Claudia Diaz and Bart Preneel.
+In the Proceedings of I-NetSec04: 3rd Working Conference on Privacy and Anonymity in Networked and Distributed Systems, Toulouse, France, August 2004. (BibTeX entry)·
+Anonymous Communication with On-line and Off-line Onion Encoding (PDF) (Cached: PDF)
+by Marcin Gomulkiewicz, Marek Klonowski, and Miroslaw Kutylowski.
+In the Proceedings of Workshop on Information Security Applications (WISA 2004), August 2004. (BibTeX entry)·
+Comparison between two practical mix designs (PDF, gzipped PS) (Cached: PDF, gzipped PS)
+by Claudia Diaz, Len Sassaman, and Evelyne Dewitte.
+In the Proceedings of ESORICS 2004, France, September 2004. (BibTeX entry)·
+DUO–Onions and Hydra–Onions – Failure and Adversary Resistant Onion Protocols
+by Jan Iwanik, Marek Klonowski, and Miroslaw Kutylowski.
+In the Proceedings of the IFIP TC-6 TC-11 Conference on Communications and Multimedia Security 2004, September 2004. (BibTeX entry)·
+Minx: A simple and efficient anonymous packet format (PDF) (Cached: PDF)
+by George Danezis and Ben Laurie.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2004), Washington, DC, USA, October 2004. (BibTeX entry)·
+Location Diversity in Anonymity Networks (PS) (Cached: PS, gzipped PS)
+by Nick Feamster and Roger Dingledine.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2004), Washington, DC, USA, October 2004. (BibTeX entry)·
+How to Achieve Blocking Resistance for Existing Systems Enabling Anonymous Web Surfing (PDF) (Cached: PDF)
+by Stefan Köpsell and Ulf Hilling.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2004), Washington, DC, USA, October 2004. (BibTeX entry)·
+Fragile Mixing (PDF) (Cached: PDF)
+by Michael Reiter and XiaoFeng Wang.
+In the Proceedings of the 11th ACM Conference on Computer and Communications Security (CCS 2004), October 2004. (BibTeX entry)·
+Parallel Mixing (PDF, PS) (Cached: PDF, PS, gzipped PS)
+by Philippe Golle and Ari Juels.
+In the Proceedings of the 11th ACM Conference on Computer and Communications Security (CCS 2004), October 2004. (BibTeX entry)·
+Measuring Anonymity Revisited (PDF) (Cached: PDF)
+by Gergely Tóth, Zoltán Hornák, and Ferenc Vajda.
+In the Proceedings of the Ninth Nordic Workshop on Secure IT Systems, Espoo, Finland, November 2004, pages 85-90. (BibTeX entry)·
+The Predecessor Attack: An Analysis of a Threat to Anonymous Communications Systems (PDF) (Cached: PDF)
+by Matthew Wright, Micah Adler, Brian Neil Levine, and Clay Shields.
+In ACM Transactions on Information and System Security (TISSEC) 4(7), November 2004, pages 489-522. (BibTeX entry)·
+2005
+
+A Random Walk Based Anonymous Peer-to-Peer Protocol Design
+by Jinsong Han, Yunhao Liu, Li Lu, Lei Hu, and Abhishek Patil.
+In the Proceedings of ICCNMC, 2005, pages 143-152. (BibTeX entry)·
+SAS: A Scalar Anonymous Communication System
+by Hongyun Xu, Xinwen Fu, Ye Zhu, Riccardo Bettati, Jianer Chen, and Wei Zhao.
+In the Proceedings of ICCNMC, 2005, pages 452-461. (BibTeX entry)·
+Some Remarks on Universal Re-encryption and A Novel Practical Anonymous Tunnel (abstract) (Cached: abstract)
+by Tianbo Lu, Binxing Fang, Yuzhong Sun, and Li Guo.
+In the Proceedings of ICCNMC, 2005, pages 853-862. (BibTeX entry)·
+Anonymous Communication with On-line and Off-line Onion Encoding (PDF) (Cached: PDF)
+by Marek Klonowski, Miroslaw Kutylowski, and Filip Zagorski.
+In the Proceedings of Conference on Current Trends in Theory and Practice of Informatics (SOFSEM 2005), January 2005. (BibTeX entry)·
+On Flow Marking Attacks in Wireless Anonymous Communication Networks (PDF) (Cached: PDF)
+by Xinwen Fu, Ye Zhu, Bryan Graham, Riccardo Bettati, and Wei Zhao.
+In the Proceedings of the IEEE International Conference on Distributed Computing Systems (ICDCS), April 2005. (BibTeX entry)·
+Low-Cost Traffic Analysis of Tor (PDF) (Cached: PDF)
+by Steven J. Murdoch and George Danezis.
+In the Proceedings of the 2005 IEEE Symposium on Security and Privacy, May 2005. (BibTeX entry)·
+Privacy Vulnerabilities in Encrypted HTTP Streams (PDF) (Cached: PDF)
+by George Dean Bissias, Marc Liberatore, and Brian Neil Levine.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2005), May 2005, pages 1-11. (BibTeX entry)·
+An Analysis of Parallel Mixing with Attacker-Controlled Inputs (PDF) (Cached: PDF)
+by Nikita Borisov.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2005), May 2005, pages 12-25. (BibTeX entry)·
+Message Splitting Against the Partial Adversary (PDF) (Cached: PDF)
+by Andrei Serjantov and Steven J. Murdoch.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2005), May 2005, pages 26-39. (BibTeX entry)·
+Unmixing Mix Traffic (PDF) (Cached: PDF)
+by Ye Zhu and Riccardo Bettati.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2005), May 2005, pages 110-127. (BibTeX entry)·
+Mix-network with Stronger Security
+by Jan Camenisch and Anton Mityagin.
+In the Proceedings of Privacy Enhancing Technologies workshop (PET 2005), May 2005, pages 128-147. (BibTeX entry)·
+Compulsion Resistant Anonymous Communications (PDF) (Cached: PDF)
+by George Danezis and Jolyon Clulow.
+In the Proceedings of Information Hiding Workshop (IH 2005), June 2005, pages 11-25. (BibTeX entry)·
+Provable Anonymity for Networks of Mixes (PDF) (Cached: PDF)
+by Marek Klonowski and Miroslaw Kutylowski.
+In the Proceedings of Information Hiding Workshop (IH 2005), June 2005, pages 26-38. (BibTeX entry)·
+On Blending Attacks For Mixes with Memory (PDF) (Cached: PDF)
+by Luke O'Connor.
+In the Proceedings of Information Hiding Workshop (IH 2005), June 2005, pages 39-52. (BibTeX entry)·
+Censorship Resistance Revisited (PDF) (Cached: PDF)
+by Ginger Perng, Michael K. Reiter, and Chenxi Wang.
+In the Proceedings of Information Hiding Workshop (IH 2005), June 2005, pages 62-76. (BibTeX entry)·
+A Formal Treatment of Onion Routing (PDF) (Cached: PDF)
+by Jan Camenisch and Anna Lysyanskaya.
+In the Proceedings of CRYPTO 2005, August 2005, pages 169-187. (BibTeX entry)·
+Local View Attack on Anonymous Communication (PS) (Cached: PDF, PS, gzipped PS)
+by Marcin Gogolewski, Marek Klonowski, and Miroslaw Kutylowski.
+In the Proceedings of ESORICS 2005, September 2005. (BibTeX entry)·
+The Pynchon Gate: A Secure Method of Pseudonymous Mail Retrieval (PDF) (Cached: PDF)
+by Len Sassaman, Bram Cohen, and Nick Mathewson.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2005), Arlington, VA, USA, November 2005. (BibTeX entry)·
+Provable Anonymity (PDF, PS) (Cached: PDF, PS, gzipped PS)
+by Flavio D. Garcia, Ichiro Hasuo, Wolter Pieters, and Peter van Rossum.
+In the Proceedings of the 3rd ACM Workshop on Formal Methods in Security Engineering (FMSE05), Alexandria, VA, USA, November 2005. (BibTeX entry)·
+Obfuscated Ciphertext Mixing (HTML, PDF) (Cached: HTML, PDF)
+by Ben Adida and Douglas Wikström.
+Cryptology ePrint Archive, Report 2005/394, November 2005. (BibTeX entry)·
+Tracking anonymous peer-to-peer VoIP calls on the internet (PDF) (Cached: PDF)
+by Xinyuan Wang, Shiping Chen, and Sushil Jajodia.
+In the Proceedings of the ACM Conference on Computer and Communications Security, November 2005, pages 81-91. (BibTeX entry)·
+Anonymity and Privacy in Electronic Services (PDF) (Cached: PDF)
+by Claudia Diaz.
+Ph.D. thesis, Katholieke Universiteit Leuven, December 2005. (BibTeX entry)·
+2006
+
+A Classification for Privacy Techniques (PDF) (Cached: PDF)
+by Carlisle Adams.
+In University of Ottawa Law amp; Technology Journal 3, 2006, pages 35-52. (BibTeX entry)·
+Secure User Identification Without Privacy Erosion (PDF) (Cached: PDF)
+by Stefan Brands.
+In University of Ottawa Law amp; Technology Journal 3, 2006, pages 205-223. (BibTeX entry)·
+Regroup-And-Go mixes to counter the $(n-1)$ attack (DOI)
+by Jin-Qiao Shi, Bin-Xing Fang, and Li-Jie Shao.
+In Journal of Internet Research 16(2), 2006, pages 213-223. (BibTeX entry)·
+Anonymity Protocols as Noisy Channels?
+by K. Chatzikokolakis, C. Palamidessi, and P. Panangaden.
+In Proc. 2nd Symposium on Trustworthy Global Computing, LNCS. Springer, 2006. (BibTeX entry)·
+Verifiable shuffles: a formal model and a Paillier-based three-round construction with provable security
+by L. Nguyen, R. Safavi-Naini, and K. Kurosawa.
+In International Journal of Information Security 5(4), 2006, pages 241-255. (BibTeX entry)·
+On Inferring Application Protocol Behaviors in Encrypted Network Traffic (PDF) (Cached: PDF)
+by Charles V. Wright, Fabian Monrose, and Gerald M. Masson.
+In Journal of Machine Learning Research 7, 2006, pages 2745-2769. (BibTeX entry)·
+Locating Hidden Servers (PDF) (Cached: PDF)
+by Lasse Øverlier and Paul Syverson.
+In the Proceedings of the 2006 IEEE Symposium on Security and Privacy, May 2006. (BibTeX entry)·
+Motivates and describes Tor's entry guard design.
+Deterring Voluntary Trace Disclosure in Re-encryption Mix Networks (PDF) (Cached: PDF)
+by Philippe Golle, XiaoFeng Wang, Markus Jakobsson, and Alex Tsow.
+In the Proceedings of the 2006 IEEE Symposium on Security and Privacy, Oakland, CA, May 2006, pages 121-131. (BibTeX entry)·
+Anonymity Loves Company: Usability and the Network Effect (PDF) (Cached: PDF)
+by Roger Dingledine and Nick Mathewson.
+In the Proceedings of the Fifth Workshop on the Economics of Information Security (WEIS 2006), Cambridge, UK, June 2006. (BibTeX entry)·
+The Economics of Mass Surveillance and the Questionable Value of Anonymous Communications (PDF) (Cached: PDF)
+by George Danezis and Bettina Wittneben.
+In the Proceedings of the Fifth Workshop on the Economics of Information Security (WEIS 2006), Cambridge, UK, June 2006. (BibTeX entry)·
+Improving Sender Anonymity in a Structured Overlay with Imprecise Routing (PDF) (Cached: PDF)
+by Giuseppe Ciaccio.
+In the Proceedings of the Sixth Workshop on Privacy Enhancing Technologies (PET 2006), Cambridge, UK, June 2006, pages 190-207. (BibTeX entry)·
+Valet Services: Improving Hidden Servers with a Personal Touch (PDF) (Cached: PDF)
+by Lasse Øverlier and Paul Syverson.
+In the Proceedings of the Sixth Workshop on Privacy Enhancing Technologies (PET 2006), Cambridge, UK, June 2006, pages 223-244. (BibTeX entry)·
+Blending Different Latency Traffic with Alpha-Mixing (PDF) (Cached: PDF)
+by Roger Dingledine, Andrei Serjantov, and Paul Syverson.
+In the Proceedings of the Sixth Workshop on Privacy Enhancing Technologies (PET 2006), Cambridge, UK, June 2006, pages 245-257. (BibTeX entry)·
+On the Security of the Tor Authentication Protocol (PDF) (Cached: PDF)
+by Ian Goldberg.
+In the Proceedings of the Sixth Workshop on Privacy Enhancing Technologies (PET 2006), Cambridge, UK, June 2006, pages 316-331. (BibTeX entry)·
+Breaking the Collusion Detection Mechanism of MorphMix (PDF) (Cached: PDF)
+by Parisa Tabriz and Nikita Borisov.
+In the Proceedings of the Sixth Workshop on Privacy Enhancing Technologies (PET 2006), Cambridge, UK, June 2006, pages 368-384. (BibTeX entry)·
+Ignoring the Great Firewall of China (PDF) (Cached: PDF)
+by Richard Clayton, Steven J. Murdoch, and Robert N. M. Watson.
+In the Proceedings of the Sixth Workshop on Privacy Enhancing Technologies (PET 2006), Cambridge, UK, June 2006, pages 20-35. (BibTeX entry)·
+Linking Anonymous Transactions: The Consistent View Attack (PDF) (Cached: PDF)
+by Andreas Pashalidis and Bernd Meyer.
+In the Proceedings of the Sixth Workshop on Privacy Enhancing Technologies (PET 2006), Cambridge, UK, June 2006, pages 384-392. (BibTeX entry)·
+M2: Multicasting Mixes for Efficient and Anonymous Communication (PDF) (Cached: PDF)
+by Ginger Perng, Michael K. Reiter, and Chenxi Wang.
+In the Proceedings of the 26th IEEE Conference on Distributed Computing Systems, July 2006. (BibTeX entry)·
+Breaking Four Mix-related Schemes Based on Universal Re-encryption (PDF) (Cached: PDF)
+by George Danezis.
+In the Proceedings of Information Security Conference 2006, September 2006. (BibTeX entry)·
+Timing Analysis in Low-Latency Mix Networks: Attacks and Defenses (PDF) (Cached: PDF)
+by Vitaly Shmatikov and Ming-Hsiu Wang.
+In the Proceedings of ESORICS 2006, September 2006. (BibTeX entry)·
+Measuring Relationship Anonymity in Mix Networks (PDF) (Cached: PDF)
+by Vitaly Shmatikov and Ming-Hsiu Wang.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2006), October 2006. (BibTeX entry)·
+Nonesuch: a mix network with sender unobservability (PDF, DOI) (Cached: PDF)
+by Thomas S. Heydt-Benjamin, Andrei Serjantov, and Benessa Defend.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2006), Alexandria, Virginia, USA, October 2006, pages 1-8. (BibTeX entry)·
+Cryptography from Anonymity (PDF) (Cached: PDF)
+by Y. Ishai, E. Kushilevitz, R. Ostrovsky, and A. Sahai.
+In Proceedings of the 47th Annual IEEE Symposium on Foundations of Computer Science (FOCS'06)-Volume 00, October 2006, pages 239-248. (BibTeX entry)·
+Salsa: A Structured Approach to Large-Scale Anonymity (PDF) (Cached: PDF)
+by Arjun Nambiar and Matthew Wright.
+In the Proceedings of CCS 2006, November 2006. (BibTeX entry)·
+Hot or Not: Revealing Hidden Services by their Clock Skew (PDF) (Cached: PDF)
+by Steven J. Murdoch.
+In the Proceedings of CCS 2006, November 2006. (BibTeX entry)·
+Inferring the Source of Encrypted HTTP Connections (PDF) (Cached: PDF)
+by Marc Liberatore and Brian Neil Levine.
+In the Proceedings of the 13th ACM conference on Computer and Communications Security (CCS 2006), November 2006, pages 255-263. (BibTeX entry)·
+Design of a blocking-resistant anonymity system (PDF) (Cached: PDF)
+by Roger Dingledine and Nick Mathewson.
+The Tor Project technical report 2006-1, November 2006. (BibTeX entry)·
+2007
+
+Design principles for low latency anonymous network systems secure against timing attacks (PDF) (Cached: PDF)
+by Rungrat Wiangsripanawan, Willy Susilo, and Rei Safavi-Naini.
+In the Proceedings of the fifth Australasian symposium on ACSW frontiers (ACSW '07), Ballarat, Australia, 2007, pages 183-191. (BibTeX entry)·
+Probability of Error in Information-Hiding Protocols (PDF) (Cached: PDF)
+by Konstantinos Chatzikokolakis, Catuscia Palamidessi, and Prakash Panangaden.
+In the Proceedings of the 20th IEEE Computer Security Foundations Symposium (CSF20), S. Servolo island, Venice - Italy, 2007. (BibTeX entry)·
+GAS: Overloading a File Sharing Network as an Anonymizing System (PDF) (Cached: PDF)
+by Elias Athanasopoulos, Mema Roussopoulos, Kostas G. Anagnostakis, and Evangelos P. Markatos.
+In the Proceedings of Second International Workshop on Security, (IWSEC 2007), Nara, Japan, 2007. (BibTeX entry)·
+Closed-Circuit Unobservable Voice Over IP (PDF) (Cached: PDF)
+by Carlos Aguilar Melchor, Yves Deswarte, and Julien Iguchi-Cartigny.
+In the Proceedings of 23rd Annual Computer Security Applications Conference (ACSAC'07), Miami, FL, USA, 2007. (BibTeX entry)·
+An Identity-Free and On-Demand Routing Scheme against Anonymity Threats in Mobile Ad Hoc Networks (PDF) (Cached: PDF)
+by Jiejun Kong, Xiaoyan Hong, and Mario Gerla.
+In IEEE Transactions on Mobile Computing 6(8), 2007, pages 888-902. (BibTeX entry)·
+The Byzantine Postman Problem: A Trivial Attack Against PIR-based Nym Servers (PDF) (Cached: PDF)
+by Len Sassaman and Bart Preneel.
+Katholieke Universiteit Leuven technical report ESAT-COSIC 2007-001, February 2007. (BibTeX entry)·
+How to Shuffle in Public (PDF) (Cached: PDF)
+by Ben Adida and Douglas Wikström.
+In the Proceedings of the Theory of Cryptography 2007, February 2007. (BibTeX entry)·
+Information Slicing: Anonymity Using Unreliable Overlays (PDF) (Cached: PDF)
+by Sachin Katti, Jeffery Cohen, and Dina Katabi.
+In the Proceedings of the 4th USENIX Symposium on Network Systems Design and Implementation (NSDI), April 2007. (BibTeX entry)·
+A Combinatorial Approach to Measuring Anonymity (PDF) (Cached: PDF)
+by M. Edman, F. Sivrikaya, and B. Yener.
+In Intelligence and Security Informatics, 2007 IEEE, May 2007, pages 356-363. (BibTeX entry)·
+Two-Sided Statistical Disclosure Attack (PDF) (Cached: PDF)
+by George Danezis, Claudia Diaz, and Carmela Troncoso.
+In the Proceedings of the Seventh Workshop on Privacy Enhancing Technologies (PET 2007), Ottawa, Canada, June 2007. (BibTeX entry)·
+Extends the Statistical Disclosure attack to take advantage of reply messages.
+Improving Efficiency and Simplicity of Tor circuit establishment and hidden services (PDF) (Cached: PDF)
+by Lasse Øverlier and Paul Syverson.
+In the Proceedings of the Seventh Workshop on Privacy Enhancing Technologies (PET 2007), Ottawa, Canada, June 2007. (BibTeX entry)·
+Introduces Diffie-Hellman-based handshakes to build Tor circuits with fewer exponentiations than the original circuit-establishment protocol.
+Sampled Traffic Analysis by Internet-Exchange-Level Adversaries (PDF) (Cached: PDF)
+by Steven J. Murdoch and Piotr Zieliński.
+In the Proceedings of the Seventh Workshop on Privacy Enhancing Technologies (PET 2007), Ottawa, Canada, June 2007. (BibTeX entry)·
+Examines efficacy of traffic analysis against a low-latency anonymity network by an adversary who controls Internet exchanges, and who can only sample a fraction of traffic.
+Browser-Based Attacks on Tor (PDF) (Cached: PDF)
+by Tim Abbott, Katherine J. Lai, Michael R. Lieberman, and Eric C. Price.
+In the Proceedings of the Seventh Workshop on Privacy Enhancing Technologies (PET 2007), Ottawa, Canada, June 2007. (BibTeX entry)·
+Usability of anonymous web browsing: an examination of Tor interfaces and deployability (PDF, DOI) (Cached: PDF)
+by Jeremy Clark, P. C. van Oorschot, and Carlisle Adams.
+In the Proceedings of the 3rd Symposium on Usable Privacy and Security (SOUPS '07), Pittsburgh, Pennsylvania, July 2007, pages 41-51. (BibTeX entry)·
+Countering Statistical Disclosure with Receiver-Bound Cover Traffic (PDF) (Cached: PDF)
+by Nayantara Mallesh and Matthew Wright.
+In the Proceedings of 12th European Symposium On Research In Computer Security (ESORICS 2007), Dresden, Germany, September 2007, pages 547-562. (BibTeX entry)·
+Denial of Service or Denial of Security? How Attacks on Reliability can Compromise Anonymity (PDF) (Cached: PDF)
+by Nikita Borisov, George Danezis, Prateek Mittal, and Parisa Tabriz.
+In the Proceedings of CCS 2007, October 2007. (BibTeX entry)·
+Low-Resource Routing Attacks Against Tor (PDF) (Cached: PDF)
+by Kevin Bauer, Damon McCoy, Dirk Grunwald, Tadayoshi Kohno, and Douglas Sicker.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2007), Washington, DC, USA, October 2007. (BibTeX entry)·
+Anonymous Networking amidst Eavesdroppers (PDF) (Cached: PDF)
+by Parvathinathan Venkitasubramaniam, Ting He, and Lang Tong.
+Pre-print available as arXiv:0710.4903v1 at arxiv.org, October 2007. (BibTeX entry)·
+Probabilistic and Information-Theoretic Approaches to Anonymity (PDF) (Cached: PDF)
+by Konstantinos Chatzikokolakis.
+Ph.D. thesis, Laboratoire d'Informatique (LIX), École Polytechnique, Paris, October 2007. (BibTeX entry)·
+Does additional information always reduce anonymity? (PDF) (Cached: PDF)
+by Claudia Diaz, Carmela Troncoso, and George Danezis.
+In the Proceedings of the Workshop on Privacy in the Electronic Society 2007, Alexandria,VA,USA, October 2007, pages 72-75. (BibTeX entry)·
+Covert channel vulnerabilities in anonymity systems (PDF) (Cached: PDF)
+by Steven J. Murdoch.
+Ph.D. thesis, University of Cambridge, December 2007. (BibTeX entry)·
+2008
+
+Don't Clog the Queue: Circuit Clogging and Mitigation in P2P anonymity schemes (PDF) (Cached: PDF)
+by Jon McLachlan and Nicholas Hopper.
+In the Proceedings of Financial Cryptography (FC '08), January 2008. (BibTeX entry)·
+A Survey of Anonymous Communication Channels (PDF) (Cached: PDF)
+by George Danezis and Claudia Diaz.
+Microsoft Research technical report MSR-TR-2008-35, January 2008. (BibTeX entry)·
+A Tune-up for Tor: Improving Security and Performance in the Tor Network (PDF) (Cached: PDF)
+by Robin Snader and Nikita Borisov.
+In the Proceedings of the Network and Distributed Security Symposium - NDSS '08, February 2008. (BibTeX entry)·
+A Concept of an Anonymous Direct P2P Distribution Overlay System (PDF) (Cached: PDF)
+by Igor Margasinski and Michal Pioro.
+In the Proceedings of IEEE 22nd International Conference on Advanced Information Networking and Applications (AINA), Gino-wan, Okinawa, Japan, March 2008, pages 590-597. (BibTeX entry)·
+Quantification of Anonymity for Mobile Ad Hoc Networks (PDF) (Cached: PDF)
+by Marie Elisabeth Gaup Moe.
+In the Proceedings of the 4th International Workshop on Security and Trust Management (STM 08), Trondheim, Norway, June 2008, pages 25-36. (BibTeX entry)·
+Performance Measurements and Statistics of Tor Hidden Services (PDF) (Cached: PDF)
+by Karsten Loesing, Werner Sandmann, Christian Wilms, and Guido Wirtz.
+In the Proceedings of the 2008 International Symposium on Applications and the Internet (SAINT), Turku, Finland, July 2008. (BibTeX entry)·
+An Improved Clock-skew Measurement Technique for Revealing Hidden Services (PDF) (Cached: PDF)
+by Sebastian Zander and Steven J. Murdoch.
+In the Proceedings of the 17th USENIX Security Symposium, San Jose, CA, US, July 2008. (BibTeX entry)·
+Perfect Matching Statistical Disclosure Attacks (PDF) (Cached: PDF)
+by Carmela Troncoso, Benedikt Gierlichs, Bart Preneel, and Ingrid Verbauwhede.
+In the Proceedings of the Eighth International Symposium on Privacy Enhancing Technologies (PETS 2008), Leuven, Belgium, July 2008, pages 2-23. (BibTeX entry)·
+On the Impact of Social Network Profiling on Anonymity (PDF) (Cached: PDF)
+by Claudia Diaz, Carmela Troncoso, and Andrei Serjantov.
+In the Proceedings of the Eighth International Symposium on Privacy Enhancing Technologies (PETS 2008), Leuven, Belgium, July 2008, pages 44-62. (BibTeX entry)·
+Shining Light in Dark Places: Understanding the Tor Network (PDF) (Cached: PDF)
+by Damon McCoy, Kevin Bauer, Dirk Grunwald, Tadayoshi Kohno, and Douglas Sicker.
+In the Proceedings of the Eighth International Symposium on Privacy Enhancing Technologies (PETS 2008), Leuven, Belgium, July 2008, pages 63-76. (BibTeX entry)·
+Breaking and Provably Fixing Minx (PDF) (Cached: PDF)
+by Eric Shimshock, Matt Staats, and Nicholas Hopper.
+In the Proceedings of the Eighth International Symposium on Privacy Enhancing Technologies (PETS 2008), Leuven, Belgium, July 2008, pages 99-114. (BibTeX entry)·
+Metrics for Security and Performance in Low-Latency Anonymity Networks (PDF) (Cached: PDF)
+by Steven J. Murdoch and Robert N. M. Watson.
+In the Proceedings of the Eighth International Symposium on Privacy Enhancing Technologies (PETS 2008), Leuven, Belgium, July 2008, pages 115-132. (BibTeX entry)·
+Bridging and Fingerprinting: Epistemic Attacks on Route Selection (PDF) (Cached: PDF)
+by George Danezis and Paul Syverson.
+In the Proceedings of the Eighth International Symposium on Privacy Enhancing Technologies (PETS 2008), Leuven, Belgium, July 2008, pages 133-150. (BibTeX entry)·
+How to Bypass Two Anonymity Revocation Systems (PDF) (Cached: PDF)
+by George Danezis and Len Sassaman.
+In the Proceedings of the Eighth International Symposium on Privacy Enhancing Technologies (PETS 2008), Leuven, Belgium, July 2008, pages 187-201. (BibTeX entry)·
+Reputation Systems for Anonymous Networks
+by Elli Androulaki, Seung Geol Choi, Steven M. Bellovin, and Tal Malkin.
+In the Proceedings of the Eighth International Symposium on Privacy Enhancing Technologies (PETS 2008), Leuven, Belgium, July 2008, pages 202-218. (BibTeX entry)·
+PAR: Payment for Anonymous Routing (PDF) (Cached: PDF)
+by Elli Androulaki, Mariana Raykova, Shreyas Srivatsan, Angelos Stavrou, and Steven M. Bellovin.
+In the Proceedings of the Eighth International Symposium on Privacy Enhancing Technologies (PETS 2008), Leuven, Belgium, July 2008, pages 219-236. (BibTeX entry)·
+Compromising Anonymity Using Packet Spinning (PDF) (Cached: PDF)
+by Vasilis Pappas, Elias Athanasopoulos, Sotiris Ioannidis, and Evangelos P. Markatos.
+In the Proceedings of the 11th Information Security Conference (ISC 2008), Taipei, Taiwan, September 2008. (BibTeX entry)·
+BitBlender: Light-Weight Anonymity for BitTorrent (PDF) (Cached: PDF)
+by Kevin Bauer, Damon McCoy, Dirk Grunwald, and Douglas Sicker.
+In the Proceedings of the Workshop on Applications of Private and Anonymous Communications (AlPACa 2008), Istanbul, Turkey, September 2008. (BibTeX entry)·
+Improving Tor using a TCP-over-DTLS Tunnel (abstract, PDF) (Cached: abstract, PDF)
+by Joel Reardon.
+Masters's thesis, University of Waterloo, September 2008. (BibTeX entry)·
+Entropy Bounds for Traffic Confirmation (PDF) (Cached: PDF)
+by Luke O'Connor.
+IACR technical report 2008/365, October 2008. (BibTeX entry)·
+Dependent Link Padding Algorithms for Low Latency Anonymity Systems
+by Wei Wang, Mehul Motani, and Vikram Srinivasan.
+In the Proceedings of the 15th ACM Conference on Computer and Communications Security (CCS 2008), Alexandria, Virginia, USA, October 2008, pages 323-332. (BibTeX entry)·
+PEREA: Towards Practical TTP-Free Revocation in Anonymous Authentication
+by Patrick P. Tsang, Man Ho Au, Apu Kapadia, and Sean Smith.
+In the Proceedings of the 15th ACM Conference on Computer and Communications Security (CCS 2008), Alexandria, Virginia, USA, October 2008, pages 333-345. (BibTeX entry)·
+Information Leaks in Structured Peer-to-peer Anonymous Communication Systems (PDF) (Cached: PDF)
+by Prateek Mittal and Nikita Borisov.
+In the Proceedings of the 15th ACM Conference on Computer and Communications Security (CCS 2008), Alexandria, Virginia, USA, October 2008, pages 267-278. (BibTeX entry)·
+Describes attacks against the SALSA and AP3 peer-to-peer anonymity network architectures.
+2009
+
+On anonymity in an electronic society: A survey of anonymous communication systems (PDF, DOI) (Cached: PDF)
+by Matthew Edman and Bülent Yener.
+In ACM Computing Surveys 42(1), 2009, pages 1-35. (BibTeX entry)·
+Traffic Morphing: An efficient defense against statistical traffic analysis (PDF) (Cached: PDF)
+by Charles Wright, Scott Coull, and Fabian Monrose.
+In the Proceedings of the Network and Distributed Security Symposium - NDSS '09, February 2009. (BibTeX entry)·
+RAINBOW: A Robust and Invisible Non-Blind Watermark for Network Flows (PDF) (Cached: PDF)
+by Amir Houmansadr, Negar Kiyavash, and Nikita Borisov.
+In the Proceedings of the Network and Distributed Security Symposium - NDSS'09, February 2009. (BibTeX entry)·
+A taxonomy for and analysis of anonymous communications networks (PDF) (Cached: PDF)
+by Douglas Kelly.
+Ph.D. thesis, Air Force Institute of Technology, March 2009. (BibTeX entry)·
+EigenSpeed: Secure Peer-to-peer Bandwidth Evaluation (PDF) (Cached: PDF)
+by Robin Snader and Nikita Borisov.
+In the Proceedings of the 8th International Workshop on Peer-to-Peer Systems (IPTPS09), Boston, MA, April 2009. (BibTeX entry)·
+De-anonymizing Social Networks (PDF) (Cached: PDF)
+by Arvind Narayanan and Vitaly Shmatikov.
+In the Proceedings of the 30th IEEE Symposium on Security and Privacy (Samp;P 2009), Oakland, California, USA, May 2009, pages 173-187. (BibTeX entry)·
+Sphinx: A Compact and Provably Secure Mix Format (PDF) (Cached: PDF)
+by George Danezis and Ian Goldberg.
+In the Proceedings of the 30th IEEE Symposium on Security and Privacy (Samp;P 2009), Oakland, California, USA, May 2009, pages 269-282. (BibTeX entry)·
+Privacy-enhancing Technologies for Private Services (PDF) (Cached: PDF)
+by Karsten Loesing.
+Ph.D. thesis, University of Bamberg, May 2009. (BibTeX entry)·
+Performance Measurements of Tor Hidden Services in Low-Bandwidth Access Networks (PDF) (Cached: PDF)
+by Jörg Lenhard, Karsten Loesing, and Guido Wirtz.
+In the Proceedings of the 7th International Conference on Applied Cryptography and Network Security (ACNS 09), Paris-Rocquencourt, France, June 2-5, 2009, June 2009. (BibTeX entry)·
+On the Effectiveness of Low Latency Anonymous Networks in the Presence of Timing Attacks (PDF) (Cached: PDF)
+by Jing Jin and Xinyuan Wang.
+In the Proceedings of the 41st Annual IEEE/IFIP International Conference on Dependable Systems and Networks, Lisbon, July 2009, pages 429-438. (BibTeX entry)·
+A Practical Congestion Attack on Tor Using Long Paths (PDF) (Cached: PDF)
+by Nathan Evans, Roger Dingledine, and Christian Grothoff.
+In the Proceedings of the 18th USENIX Security Symposium, August 2009. (BibTeX entry)·
+SHALON: Lightweight Anonymization based on Open Standards (PDF) (Cached: PDF)
+by Andriy Panchenko, Benedikt Westermann, Lexi Pimenidis, and Christer Andersson.
+In the Proceedings of 18th International Conference on Computer Communications and Networks, San Francisco, CA, USA, August 2009. (BibTeX entry)·
+Vida: How to Use Bayesian Inference to De-anonymize Persistent Communications (PDF) (Cached: PDF)
+by George Danezis and Carmela Troncoso.
+In the Proceedings of Privacy Enhancing Technologies, 9th International Symposium (PETS 2009), August 2009, pages 56-72. (BibTeX entry)·
+Scalable Link-Based Relay Selection for Anonymous Routing (PDF) (Cached: PDF)
+by Micah Sherr, Matt Blaze, and Boon Thau Loo.
+In the Proceedings of Privacy Enhancing Technologies, 9th International Symposium (PETS 2009), August 2009, pages 73-93. (BibTeX entry)·
+Enlisting ISPs to Improve Online Privacy: IP Address Mixing by Default (PDF) (Cached: PDF)
+by Barath Raghavan, Tadayoshi Kohno, Alex C. Snoeren, and David Wetherall.
+In the Proceedings of Privacy Enhancing Technologies, 9th International Symposium (PETS 2009), August 2009, pages 143-163. (BibTeX entry)·
+The Wisdom of Crowds: Attacks and Optimal Constructions (PDF) (Cached: PDF)
+by George Danezis, Claudia Díaz, Emilia Käsper, and Carmela Troncoso.
+In the Proceedings of the 14th European Symposium on Research in Computer Security (ESORICS 2009), Saint-Malo, France, September 2009, pages 406-423. (BibTeX entry)·
+Website fingerprinting: attacking popular privacy enhancing technologies with the multinomial naïve-bayes classifier (PDF, DOI) (Cached: PDF)
+by Dominik Herrmann, Rolf Wendolsky, and Hannes Federrath.
+In the Proceedings of the 2009 ACM workshop on Cloud computing security (CCSW '09), Chicago, Illinois, USA, October 2009, pages 31-42. (BibTeX entry)·
+Hashing it out in public: Common failure modes of DHT-based anonymity schemes (PDF) (Cached: PDF)
+by Andrew Tran, Nicholas Hopper, and Yongdae Kim.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2009), Chicago, IL, USA, November 2009. (BibTeX entry)·
+On the risks of serving whenever you surf: Vulnerabilities in Tor's blocking resistance design (PDF) (Cached: PDF)
+by Jon McLachlan and Nicholas Hopper.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2009), Chicago, IL, USA, November 2009. (BibTeX entry)·
+XPay: Practical anonymous payments for Tor routing and other networked services (PDF) (Cached: PDF)
+by Yao Chen, Radu Sion, and Bogdan Carbunar.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2009), Chicago, IL, USA, November 2009. (BibTeX entry)·
+The bayesian traffic analysis of mix networks (PDF) (Cached: PDF)
+by Carmela Troncoso and George Danezis.
+In the Proceedings of the 2009 ACM Conference on Computer and Communications Security, CCS 2009, Chicago, Illinois, USA, November 2009, pages 369-379. (BibTeX entry)·
+AS-awareness in Tor path selection (PDF) (Cached: PDF)
+by Matthew Edman and Paul F. Syverson.
+In the Proceedings of the 2009 ACM Conference on Computer and Communications Security, CCS 2009, Chicago, Illinois, USA, November 2009, pages 380-389. (BibTeX entry)·
+NISAN: Network Information Service for Anonymization Networks (PDF) (Cached: PDF)
+by Andriy Panchenko, Arne Rache, and Stefan Richter.
+In the Proceedings of the 2009 ACM Conference on Computer and Communications Security, CCS 2009, Chicago, Illinois, USA, November 2009. (BibTeX entry)·
+ShadowWalker: Peer-to-peer Anonymous Communication using Redundant Structured Topologies (PDF) (Cached: PDF)
+by Prateek Mittal and Nikita Borisov.
+In the Proceedings of the 2009 ACM Conference on Computer and Communications Security, CCS 2009, Chicago, Illinois, USA, November 2009. (BibTeX entry)·
+Scalable onion routing with Torsk (PDF) (Cached: PDF)
+by Jon McLachlan, Andrew Tran, Nicholas Hopper, and Yongdae Kim.
+In the Proceedings of the 2009 ACM Conference on Computer and Communications Security, CCS 2009, Chicago, Illinois, USA, November 2009. (BibTeX entry)·
+Membership-concealing overlay networks (PDF) (Cached: PDF)
+by Eugene Y. Vasserman, Rob Jansen, James Tyra, Nicholas Hopper, and Yongdae Kim.
+In the Proceedings of the 2009 ACM Conference on Computer and Communications Security, CCS 2009, Chicago, Illinois, USA, November 2009, pages 390-399. (BibTeX entry)·
+2010
+
+Building Incentives into Tor (PDF) (Cached: PDF)
+by Tsuen-Wan ``Johnny'' Ngan, Roger Dingledine, and Dan S. Wallach.
+In the Proceedings of Financial Cryptography (FC '10), January 2010. (BibTeX entry)·
+Using Sphinx to Improve Onion Routing Circuit Construction (PDF) (Cached: PDF)
+by Aniket Kate and Ian Goldberg.
+In the Proceedings of Financial Cryptography (FC '10), January 2010. (BibTeX entry)·
+Cryptographic Protocol Analysis of AN.ON (PDF) (Cached: PDF)
+by Benedikt Westermann, Rolf Wendolsky, Lexi Pimenidis, and Dogan Kesdogan.
+In the Proceedings of Financial Cryptography (FC '10), January 2010. (BibTeX entry)·
+A Case Study on Measuring Statistical Data in the Tor Anonymity Network (PDF) (Cached: PDF)
+by Karsten Loesing, Steven J. Murdoch, and Roger Dingledine.
+In the Proceedings of the Workshop on Ethics in Computer Security Research (WECSR 2010), Tenerife, Canary Islands, Spain, January 2010. (BibTeX entry)·
+How Much Anonymity does Network Latency Leak? (PDF) (Cached: PDF)
+by Nicholas Hopper, Eugene Y. Vasserman, and Eric Chan-Tin.
+In ACM Transactions on Information and System Security 13(2), February 2010. (BibTeX entry)·
+Tor HTTP Usage and Information Leakage (PDF) (Cached: PDF)
+by Markus Huber, Martin Mulazzani, and Edgar Weippl.
+In the Proceedings of the 11th IFIP TC 6/TC 11 International Conference on Communications and Multimedia Security (CMS 2010), Linz, Austria, May 2010, pages 245-255. (BibTeX entry)·
+Making a Nymbler Nymble using VERBS (Extended Version) (PDF) (Cached: PDF)
+by Ryan Henry, Kevin Henry, and Ian Goldberg.
+In the Proceedings of the 10th Privacy Enhancing Technologies Symposium (PETS 2010), Berlin, Germany, July 2010. (BibTeX entry)·
+Impact of Network Topology on Anonymity and Overhead in Low-Latency Anonymity Networks (PDF) (Cached: PDF)
+by Claudia Diaz, Steven J. Murdoch, and Carmela Troncoso.
+In the Proceedings of the 10th Privacy Enhancing Technologies Symposium (PETS 2010), Berlin, Germany, July 2010. (BibTeX entry)·
+Preventing Active Timing Attacks in Low-Latency Anonymous Communication (PDF) (Cached: PDF)
+by Aaron Johnson, Joan Feigenbaum, and Paul Syverson.
+In the Proceedings of the 10th Privacy Enhancing Technologies Symposium (PETS 2010), Berlin, Germany, July 2010. (BibTeX entry)·
+Drac: An Architecture for Anonymous Low-Volume Communications (PDF) (Cached: PDF)
+by George Danezis, Claudia Diaz, Carmela Troncoso, and Ben Laurie.
+In the Proceedings of the 10th Privacy Enhancing Technologies Symposium (PETS 2010), Berlin, Germany, July 2010. (BibTeX entry)·
+How unique is your web browser? (PDF) (Cached: PDF)
+by Peter Eckersley.
+In the Proceedings of the 10th Privacy Enhancing Technologies Symposium, Berlin, Germany, July 2010, pages 1-18. (BibTeX entry)·
+An Analysis of Private Browsing Modes in Modern Browsers (PDF) (Cached: PDF)
+by Gaurav Aggarwal, Elie Bursztein, Collin Jackson, and Dan Boneh.
+In the Proceedings of the 19th Usenix Security Symposium, August 2010. (BibTeX entry)·
+Systems for Anonymous Communication (PDF) (Cached: PDF)
+by George Danezis, Claudia Diaz, and Paul F. Syverson.
+In the CRC Handbook of Financial Cryptography and Security, August 2010, pages 341-390. (BibTeX entry)·
+Traffic Analysis Against Low-Latency Anonymity Networks Using Available Bandwidth Estimation (PDF) (Cached: PDF)
+by Sambuddho Chakravarty, Angelos Stavrou, and Angelos D. Keromytis.
+In the Proceedings of the European Symposium Research Computer Security - ESORICS'10, September 2010. (BibTeX entry)·
+In Search of an Anonymous and Secure Lookup: Attacks on Structured Peer-to-peer Anonymous Communication Systems (PDF) (Cached: PDF)
+by Qiyan Wang, Prateek Mittal, and Nikita Borisov.
+In the Proceedings of the 2010 ACM Conference on Computer and Communications Security (CCS 2010), Chicago, Illinois, USA, October 2010. (BibTeX entry)·
+Recruiting New Tor Relays with BRAIDS (PDF) (Cached: PDF)
+by Rob Jansen, Nicholas Hopper, and Yongdae Kim.
+In the Proceedings of the 2010 ACM Conference on Computer and Communications Security (CCS 2010), Chicago, Illinois, USA, October 2010. (BibTeX entry)·
+An Improved Algorithm for Tor Circuit Scheduling (PDF) (Cached: PDF)
+by Can Tang and Ian Goldberg.
+In the Proceedings of the 2010 ACM Conference on Computer and Communications Security (CCS 2010), Chicago, Illinois, USA, October 2010. (BibTeX entry)·
+Dissent: Accountable Anonymous Group Messaging (PDF) (Cached: PDF)
+by Henry Corrigan-Gibbs and Bryan Ford.
+In the Proceedings of the 2010 ACM Conference on Computer and Communications Security (CCS 2010), Chicago, Illinois, USA, October 2010. (BibTeX entry)·
+Jack: Scalable Accumulator-based Nymble System (PDF) (Cached: PDF)
+by Zi Lin and Nicholas Hopper.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2010), Chicago, IL, USA, October 2010. (BibTeX entry)·
+Unraveling an Old Cloak: k-anonymity for Location Privacy (PDF) (Cached: PDF)
+by Reza Shokri, Carmela Troncoso, Claudia Diaz, Julien Freudiger, and Jean-Pierre Hubaux.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2010), Chicago, IL, USA, October 2010. (BibTeX entry)·
+BLAC: Revoking Repeatedly Misbehaving Anonymous Users without Relying on TTPs (PDF, DOI) (Cached: PDF)
+by Patrick P. Tsang, Man Ho Au, Apu Kapadia, and Sean W. Smith.
+In ACM Transactions on Information and System Security 13, December 2010, pages 39:1-39:33. (BibTeX entry)·
+2011
+
+Dust: A Blocking-Resistant Internet Transport Protocol (PDF) (Cached: PDF)
+by Brandon Wiley.
+School of Information, University of Texas at Austin technical report , 2011. (BibTeX entry)·
+Malice versus AN.ON: Possible Risks of Missing Replay and Integrity Protection (PDF) (Cached: PDF)
+by Benedikt Westermann and Dogan Kesdogan.
+In the Proceedings of Financial Cryptography and Data Security (FC'11), February 2011. (BibTeX entry)·
+BNymble: More anonymous blacklisting at almost no cost (PDF) (Cached: PDF)
+by Peter Lofgren and Nicholas Hopper.
+In the Proceedings of Financial Cryptography and Data Security (FC'11), February 2011. (BibTeX entry)·
+Proximax: Fighting Censorship With an Adaptive System for Distribution of Open Proxies (PDF) (Cached: PDF)
+by Kirill Levchenko and Damon McCoy.
+In the Proceedings of Financial Cryptography and Data Security (FC'11), February 2011. (BibTeX entry)·
+SWIRL: A Scalable Watermark to Detect Correlated Network Flows (PDF) (Cached: PDF)
+by Amir Houmansadr and Nikita Borisov.
+In the Proceedings of the Network and Distributed Security Symposium - NDSS'11, February 2011. (BibTeX entry)·
+Nymble: Blocking Misbehaving Users in Anonymizing Networks (DOI) (Cached: PDF)
+by Patrick P. Tsang, Apu Kapadia, Cory Cornelius, and Sean W. Smith.
+In IEEE Transactions on Dependable and Secure Computing 8(2), March–April 2011, pages 256-269. (BibTeX entry)·
+Describes Nymble, a system that allows services to block anonymous users that misbehave, without making their transactions linkable.
+Formalizing Anonymous Blacklisting Systems (PDF) (Cached: PDF)
+by Ryan Henry and Ian Goldberg.
+In the Proceedings of the 2011 IEEE Symposium on Security and Privacy, May 2011. (BibTeX entry)·
+Improving Security and Performance in Low Latency Anonymity Networks (PDF) (Cached: PDF)
+by Kevin Bauer.
+Ph.D. thesis, University of Colorado, May 2011. (BibTeX entry)·
+Fully Non-Interactive Onion Routing with Forward-Secrecy (PDF) (Cached: PDF)
+by Dario Catalano, Dario Fiore, and Rosario Gennaro.
+In the Proceedings of the 9th International Conference on Applied Cryptography and Network Security (ACNS 2011), Malaga, Spain, June 2011. (BibTeX entry)·
+An Accurate System-Wide Anonymity Metric for Probabilistic Attacks (PDF) (Cached: PDF)
+by Rajiv Bagai, Huabo Lu, Rong Li, and Bin Tang.
+In the Proceedings of the 11th Privacy Enhancing Technologies Symposium (PETS 2011), Waterloo, Canada, July 2011. (BibTeX entry)·
+DefenestraTor: Throwing out Windows in Tor (PDF) (Cached: PDF)
+by Mashael AlSabah, Kevin Bauer, Ian Goldberg, Dirk Grunwald, Damon McCoy, Stefan Savage, and Geoffrey Voelker.
+In the Proceedings of the 11th Privacy Enhancing Technologies Symposium (PETS 2011), Waterloo, Canada, July 2011. (BibTeX entry)·
+Privacy Implications of Performance-Based Peer Selection by Onion Routers: A Real-World Case Study using I2P (PDF) (Cached: PDF)
+by Michael Herrmann and Christian Grothoff.
+In the Proceedings of the 11th Privacy Enhancing Technologies Symposium (PETS 2011), Waterloo, Canada, July 2011. (BibTeX entry)·
+Decoy Routing: Toward Unblockable Internet Communication (PDF) (Cached: PDF)
+by Josh Karlin, Daniel Ellard, Alden W. Jackson, Christine E. Jones, Greg Lauer, David P. Mankins, and W. Timothy Strayer.
+In the Proceedings of the USENIX Workshop on Free and Open Communications on the Internet (FOCI 2011), August 2011. (BibTeX entry)·
+ExperimenTor: A Testbed for Safe and Realistic Tor Experimentation (PDF) (Cached: PDF)
+by Kevin Bauer, Micah Sherr, Damon McCoy, and Dirk Grunwald.
+In the Proceedings of the USENIX Workshop on Cyber Security Experimentation and Test (CSET 2011), August 2011. (BibTeX entry)·
+Telex: Anticensorship in the Network Infrastructure (PDF) (Cached: PDF)
+by Eric Wustrow, Scott Wolchok, Ian Goldberg, and J. Alex Halderman.
+In the Proceedings of the 20th USENIX Security Symposium, August 2011. (BibTeX entry)·
+PIR-Tor: Scalable Anonymous Communication Using Private Information Retrieval (PDF) (Cached: PDF)
+by Prateek Mittal, Femi Olumofin, Carmela Troncoso, Nikita Borisov, and Ian Goldberg.
+In the Proceedings of the 20th USENIX Security Symposium, August 2011. (BibTeX entry)·
+Detecting Traffic Snooping in Tor Using Decoys (PDF) (Cached: PDF)
+by Sambuddho Chakravarty, Georgios Portokalidis, Michalis Polychronakis, and Angelos D. Keromytis.
+In the Proceedings of the 14th International Conference on Recent Advances in Intrusion Detection, Menlo Park, CA, September 2011, pages 222-241. (BibTeX entry)·
+Website Fingerprinting in Onion Routing Based Anonymization Networks (PDF) (Cached: PDF)
+by Andriy Panchenko, Lukas Niessen, Andreas Zinnen, and Thomas Engel.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2011), Chicago, IL, USA, October 2011. (BibTeX entry)·
+BridgeSPA: Improving Tor Bridges with Single Packet Authorization (PDF) (Cached: PDF)
+by Rob Smits, Divam Jain, Sarah Pidcock, Ian Goldberg, and Urs Hengartner.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2011), Chicago, IL, USA, October 2011. (BibTeX entry)·
+FAUST: Efficient, TTP-Free Abuse Prevention by Anonymous Whitelisting (PDF) (Cached: PDF)
+by Peter Lofgren and Nicholas Hopper.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2011), Chicago, IL, USA, October 2011. (BibTeX entry)·
+Trust-based Anonymous Communication: Adversary Models and Routing Algorithms (PDF) (Cached: PDF)
+by Aaron Johnson, Paul Syverson, Roger Dingledine, and Nick Mathewson.
+In the Proceedings of the 18th ACM conference on Computer and Communications Security (CCS 2011), October 2011. (BibTeX entry)·
+Cirripede: Circumvention Infrastructure using Router Redirection with Plausible Deniability (PDF) (Cached: PDF)
+by Amir Houmansadr, Giang T. K. Nguyen, Matthew Caesar, and Nikita Borisov.
+In the Proceedings of the 18th ACM conference on Computer and Communications Security (CCS 2011), October 2011. (BibTeX entry)·
+Forensic Investigation of the OneSwarm Anonymous Filesharing System (PDF) (Cached: PDF)
+by Swagatika Prusty, Marc Liberatore, and Brian N. Levine.
+In the Proceedings of the 18th ACM conference on Computer and Communications Security (CCS 2011), October 2011. (BibTeX entry)·
+Stealthy Traffic Analysis of Low-Latency Anonymous Communication Using Throughput Fingerprinting (PDF) (Cached: PDF)
+by Prateek Mittal, Ahmed Khurshid, Joshua Juen, Matthew Caesar, and Nikita Borisov.
+In the Proceedings of the 18th ACM conference on Computer and Communications Security (CCS 2011), October 2011. (BibTeX entry)·
+Exploring the Potential Benefits of Expanded Rate Limiting in Tor: Slow and Steady Wins the Race With Tortoise (PDF) (Cached: PDF)
+by W. Brad Moore, Chris Wacek, and Micah Sherr.
+In the Proceedings of 2011 Annual Computer Security Applications Conference (ACSAC'11), Orlando, FL, USA, December 2011. (BibTeX entry)·
+Exposing Invisible Timing-based Traffic Watermarks with BACKLIT (PDF) (Cached: PDF)
+by Xiapu Luo, Peng Zhou, Junjie Zhang, Roberto Perdisci, Wenke Lee, and Rocky K. C. Chang.
+In the Proceedings of 2011 Annual Computer Security Applications Conference (ACSAC'11), Orlando, FL, USA, December 2011. (BibTeX entry)·
+PEREA: Practical TTP-free revocation of repeatedly misbehaving anonymous users (PDF, DOI) (Cached: PDF)
+by Man Ho Au, Patrick P. Tsang, and Apu Kapadia.
+In ACM Transactions on Information and System Security (ACM TISSEC) 14, December 2011, pages 29:1-29:34. (BibTeX entry)·
+2012
+
+Effectiveness and detection of denial of service attacks in Tor (PDF, DOI) (Cached: PDF)
+by Norman Danner, Sam DeFabbia-Kane, Danny Krizanc, and Marc Liberatore.
+In Transactions on Information and System Security 15(3), 2012, pages 11:1-11:25. (BibTeX entry)·
+Congestion-aware Path Selection for Tor (PDF) (Cached: PDF)
+by Tao Wang, Kevin Bauer, Clara Forero, and Ian Goldberg.
+In the Proceedings of Financial Cryptography and Data Security (FC'12), February 2012. (BibTeX entry)·
+BLACR: TTP-Free Blacklistable Anonymous Credentials with Reputation (PDF) (Cached: PDF)
+by Man Ho Au, Apu Kapadia, and Willy Susilo.
+In the Proceedings of the 19th Annual Network and Distributed System Security Symposium (NDSS), February 2012. (BibTeX entry)·
+Shadow: Running Tor in a Box for Accurate and Efficient Experimentation (PDF) (Cached: PDF)
+by Rob Jansen and Nicholas Hopper.
+In the Proceedings of the Network and Distributed System Security Symposium - NDSS'12, February 2012. (BibTeX entry)·
+Peek-a-Boo, I Still See You: Why Efficient Traffic Analysis Countermeasures Fail (PDF) (Cached: PDF)
+by Kevin P. Dyer, Scott E. Coull, Thomas Ristenpart, and Thomas Shrimpton.
+In the Proceedings of the 2012 IEEE Symposium on Security and Privacy, May 2012. (BibTeX entry)·
+LASTor: A Low-Latency AS-Aware Tor Client (PDF) (Cached: PDF)
+by Masoud Akhoondi, Curtis Yu, and Harsha V. Madhyastha.
+In the Proceedings of the 2012 IEEE Symposium on Security and Privacy, May 2012. (BibTeX entry)·
+LAP: Lightweight Anonymity and Privacy (PDF) (Cached: PDF)
+by Hsu-Chun Hsiao, Tiffany Hyun-Jin Kim, Adrian Perrig, Akira Yamada, Sam Nelson, Marco Gruteser, and Wei Ming.
+In the Proceedings of the 2012 IEEE Symposium on Security and Privacy, May 2012. (BibTeX entry)·
+How (not) to build a transport layer for anonymity overlays (PDF) (Cached: PDF)
+by Florian Tschorsch and Björn Scheurmann.
+In the Proceedings of the ACM Sigmetrics/Performance Workshop on Privacy and Anonymity for the Digital Economy, June 2012. (BibTeX entry)·
+Evading Censorship with Browser-Based Proxies (PDF) (Cached: PDF)
+by David Fifield, Nate Hardison, Jonathan Ellithorpe, Emily Stark, Roger Dingledine, Phil Porras, and Dan Boneh.
+In the Proceedings of the 12th Privacy Enhancing Technologies Symposium (PETS 2012), July 2012. (BibTeX entry)·
+Understanding Statistical Disclosure: A Least Squares approach (PDF) (Cached: PDF)
+by Fernando Perez-Gonzalez and Carmela Troncoso.
+In the Proceedings of the 12th Privacy Enhancing Technologies Symposium (PETS 2012), July 2012. (BibTeX entry)·
+Spying in the Dark: TCP and Tor Traffic Analysis (PDF) (Cached: PDF)
+by Yossi Gilad and Amir Herzberg.
+In the Proceedings of the 12th Privacy Enhancing Technologies Symposium (PETS 2012), July 2012. (BibTeX entry)·
+k-Indistinguishable Traffic Padding in Web Applications (PDF) (Cached: PDF)
+by Wen Ming Liu, Lingyu Wang, Kui Ren, Pengsu Cheng, and Mourad Debbabi.
+In the Proceedings of the 12th Privacy Enhancing Technologies Symposium (PETS 2012), July 2012. (BibTeX entry)·
+Website Detection Using Remote Traffic Analysis (PDF) (Cached: PDF)
+by Xun Gong, Nikita Borisov, Negar Kiyavash, and Nabil Schear.
+In the Proceedings of the 12th Privacy Enhancing Technologies Symposium (PETS 2012), July 2012. (BibTeX entry)·
+Methodically Modeling the Tor Network (PDF) (Cached: PDF)
+by Rob Jansen, Kevin Bauer, Nicholas Hopper, and Roger Dingledine.
+In the Proceedings of the USENIX Workshop on Cyber Security Experimentation and Test (CSET 2012), August 2012. (BibTeX entry)·
+How the Great Firewall of China is blocking Tor (PDF) (Cached: PDF)
+by Philipp Winter and Stefan Lindskog.
+In the Proceedings of the USENIX Workshop on Free and Open Communications on the Internet (FOCI 2012), August 2012. (BibTeX entry)·
+Bootstrapping Communications into an Anti-Censorship System (PDF) (Cached: PDF)
+by Patrick Lincoln, Ian Mason, Phillip Porras, Vinod Yegneswaran, Zachary Weinberg, Jeroen Massar, William Allen Simpson, Paul Vixie, and Dan Boneh.
+In the Proceedings of the USENIX Workshop on Free and Open Communications on the Internet (FOCI 2012), August 2012. (BibTeX entry)·
+Throttling Tor Bandwidth Parasites (PDF) (Cached: PDF)
+by Rob Jansen, Paul Syverson, and Nicholas Hopper.
+In the Proceedings of the 21st USENIX Security Symposium, August 2012. (BibTeX entry)·
+TorScan: Tracing Long-lived Connections and Differential Scanning Attacks (PDF) (Cached: PDF)
+by Alex Biryukov, Ivan Pustogarov, and Ralf Philipp Weinmann.
+In the Proceedings of the European Symposium Research Computer Security - ESORICS'12, September 2012. (BibTeX entry)·
+Changing of the Guards: A Framework for Understanding and Improving Entry Guard Selection in Tor (PDF) (Cached: PDF)
+by Tariq Elahi, Kevin Bauer, Mashael AlSabah, Roger Dingledine, and Ian Goldberg.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2012), Raleigh, NC, USA, October 2012. (BibTeX entry)·
+Torchestra: Reducing interactive traffic delays over Tor (PDF) (Cached: PDF)
+by Deepika Gopal and Nadia Heninger.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2012), Raleigh, NC, USA, October 2012. (BibTeX entry)·
+Enhancing Tor's Performance using Real-time Traffic Classification (PDF) (Cached: PDF)
+by Mashael AlSabah, Kevin Bauer, and Ian Goldberg.
+In the Proceedings of the 19th ACM conference on Computer and Communications Security (CCS 2012), October 2012. (BibTeX entry)·
+Routing Around Decoys (PDF) (Cached: PDF)
+by Max Schuchard, John Geddes, Christopher Thompson, and Nicholas Hopper.
+In the Proceedings of the 19th ACM conference on Computer and Communications Security (CCS 2012), October 2012. (BibTeX entry)·
+SkypeMorph: Protocol Obfuscation for Tor Bridges (PDF) (Cached: PDF)
+by Hooman Mohajeri Moghaddam, Baiyu Li, Mohammad Derakhshani, and Ian Goldberg.
+In the Proceedings of the 19th ACM conference on Computer and Communications Security (CCS 2012), October 2012. (BibTeX entry)·
+StegoTorus: A Camouflage Proxy for the Tor Anonymity System (PDF) (Cached: PDF)
+by Zachary Weinberg, Jeffrey Wang, Vinod Yegneswaran, Linda Briesemeister, Steven Cheung, Frank Wang, and Dan Boneh.
+In the Proceedings of the 19th ACM conference on Computer and Communications Security (CCS 2012), October 2012. (BibTeX entry)·
+CensorSpoofer: Asymmetric Communication using IP Spoofing for Censorship-Resistant Web Browsing (PDF) (Cached: PDF)
+by Qiyan Wang, Xun Gong, Giang T. K. Nguyen, Amir Houmansadr, and Nikita Borisov.
+In the Proceedings of the 19th ACM conference on Computer and Communications Security (CCS 2012), October 2012. (BibTeX entry)·
+Touching from a Distance: Website Fingerprinting Attacks and Defenses (PDF) (Cached: PDF)
+by Xiang Cai, Xincheng Zhang, Brijesh Joshi, and Rob Johnson.
+In the Proceedings of the 19th ACM conference on Computer and Communications Security (CCS 2012), October 2012. (BibTeX entry)·
+PERM: Practical Reputation-Based Blacklisting without TTPs (PDF, DOI) (Cached: PDF)
+by Man Ho Au and Apu Kapadia.
+In the Proceedings of The 19th ACM Conference on Computer and Communications Security (CCS), October 2012, pages 929-940. (BibTeX entry)·
+Privacy Preserving Performance Enhancements for Anonymous Communication Systems (PDF) (Cached: PDF)
+by Rob Jansen.
+Ph.D. thesis, University of Minnesota, October 2012. (BibTeX entry)·
+Improving Performance and Anonymity in the Tor Network (PDF) (Cached: PDF)
+by Andriy Panchenko, Fabian Lanze, and Thomas Engel.
+In the Proceedings of the 31st IEEE International Performance Computing and Communications Conference (IPCCC 2012), December 2012. (BibTeX entry)·
+2013
+
+Why I'm not an Entropist (PDF) (Cached: PDF)
+by Paul Syverson.
+In the Proceedings of Security Protocols XVII: 17th International Workshop, April 2009, Revised Selected Papers, 2013, pages 231-239. (BibTeX entry)·
+Message In A Bottle: Sailing Past Censorship (PDF) (Cached: PDF)
+by Luca Invernizzi, Christopher Kruegel, and Giovanni Vigna.
+In the Proceedings of the Annual Computer Security Applications Conference (ACSAC), 2013. (BibTeX entry)·
+LIRA: Lightweight Incentivized Routing for Anonymity (PDF) (Cached: PDF)
+by Rob Jansen, Aaron Johnson, and Paul Syverson.
+In the Proceedings of the Network and Distributed System Security Symposium - NDSS'13, February 2013. (BibTeX entry)·
+rBridge: User Reputation based Tor Bridge Distribution with Privacy Preservation (PDF) (Cached: PDF)
+by Qiyan Wang, Zi Lin, Nikita Borisov, and Nicholas J. Hopper.
+In the Proceedings of the Network and Distributed System Security Symposium - NDSS'13, February 2013. (BibTeX entry)·
+An Empirical Evaluation of Relay Selection in Tor (PDF) (Cached: PDF)
+by Christopher Wacek, Henry Tan, Kevin Bauer, and Micah Sherr.
+In the Proceedings of the Network and Distributed System Security Symposium - NDSS'13, February 2013. (BibTeX entry)·
+Preventing Side-channel Leaks in Web Traffic: A Formal Approach (PDF) (Cached: PDF)
+by Michael Backes, Goran Doychev, and Boris Köpf.
+In the Proceedings of the Network and Distributed System Security Symposium - NDSS'13, February 2013. (BibTeX entry)·
+I Want my Voice to be Heard: IP over Voice-over-IP for Unobservable Censorship Circumvention (PDF) (Cached: PDF)
+by Amir Houmansadr, Thomas Riedl, Nikita Borisov, and Andrew Singer.
+In the Proceedings of the Network and Distributed System Security Symposium - NDSS'13, February 2013. (BibTeX entry)·
+Pisces: Anonymous Communication Using Social Networks (PDF) (Cached: PDF)
+by Prateek Mittal, Matthew Wright, and Nikita Borisov.
+In the Proceedings of the 20th Annual Network and Distributed System Security Symposium (NDSS2013), San Diego, California, USA, February 2013. (BibTeX entry)·
+The Parrot is Dead: Observing Unobservable Network Communications (PDF) (Cached: PDF)
+by Amir Houmansadr, Chad Brubaker, and Vitaly Shmatikov.
+In the Proceedings of the 2013 IEEE Symposium on Security and Privacy, May 2013. (BibTeX entry)·
+Trawling for Tor Hidden Services: Detection, Measurement, Deanonymization (PDF) (Cached: PDF)
+by Alex Biryukov, Ivan Pustogarov, and Ralf-Philipp Weinmann.
+In the Proceedings of the 2013 IEEE Symposium on Security and Privacy, May 2013. (BibTeX entry)·
+Anon-Pass: Practical Anonymous Subscriptions (PDF) (Cached: PDF)
+by Michael Z. Lee, Alan M. Dunn, Jonathan Katz, Brent Waters, and Emmett Witchel.
+In the Proceedings of the 34th IEEE Symposium on Security and Privacy (S&P 2013), San Francisco, California, USA, May 2013, pages 319-333. (BibTeX entry)·
+The Path Less Travelled: Overcoming Tor's Bottlenecks with Traffic Splitting (PDF) (Cached: PDF)
+by Mashael Alsabah, Kevin Bauer, Tariq Elahi, and Ian Goldberg.
+In the Proceedings of the 13th Privacy Enhancing Technologies Symposium (PETS 2013), July 2013. (BibTeX entry)·
+How Low Can You Go: Balancing Performance with Anonymity in Tor (PDF) (Cached: PDF)
+by John Geddes, Rob Jansen, and Nicholas Hopper.
+In the Proceedings of the 13th Privacy Enhancing Technologies Symposium (PETS 2013), July 2013. (BibTeX entry)·
+OSS: Using Online Scanning Services for Censorship Circumvention (PDF) (Cached: PDF)
+by David Fifield, Gabi Nakibly, and Dan Boneh.
+In the Proceedings of the 13th Privacy Enhancing Technologies Symposium (PETS 2013), July 2013. (BibTeX entry)·
+The need for flow fingerprints to link correlated network flows (PDF) (Cached: PDF)
+by Amir Houmansadr and Nikita Borisov.
+In the Proceedings of the 13th Privacy Enhancing Technologies Symposium (PETS 2013), July 2013. (BibTeX entry)·
+Towards Provably-Secure Scalable Anonymous Broadcast (PDF) (Cached: PDF)
+by Mahdi Zamani, Jared Saia, Mahnush Movahedi, and Joud Khoury.
+In the Proceedings of the USENIX Workshop on Free and Open Communications on the Internet, Washington, DC, USA, August 2013. (BibTeX entry)·
+Towards Efficient Traffic-analysis Resistant Anonymity Networks (PDF) (Cached: PDF)
+by Stevens Le Blond, David Choffnes, Wenxuan Zhou, Peter Druschel, Hitesh Ballani, and Paul Francis.
+In the Proceedings of the ACM SIGCOMM 2013 Conference, August 2013. (BibTeX entry)·
+CellFlood: Attacking Tor Onion Routers on the Cheap (PDF) (Cached: PDF)
+by Marco Valerio Barbera, Vasileios P. Kemerlis, Vasilis Pappas, and Angelos Keromytis.
+In the Proceedings of ESORICS 2013, September 2013. (BibTeX entry)·
+Plug-and-Play IP Security: Anonymity Infrastructure Instead of PKI (PDF) (Cached: PDF)
+by Yossi Gilad and Amir Herzberg.
+In the Proceedings of ESORICS 2013, September 2013. (BibTeX entry)·
+You Cannot Hide for Long: De-Anonymization of Real-World Dynamic Behaviour (PDF) (Cached: PDF)
+by George Danezis and Carmela Troncoso.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2013), Berlin, Germany, November 2013. (BibTeX entry)·
+Improved Website Fingerprinting on Tor (PDF) (Cached: PDF)
+by Tao Wang and Ian Goldberg.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2013), Berlin, Germany, November 2013. (BibTeX entry)·
+ScrambleSuit: A Polymorphic Network Protocol to Circumvent Censorship (PDF) (Cached: PDF)
+by Philipp Winter, Tobias Pulls, and Juergen Fuss.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2013), Berlin, Germany, November 2013. (BibTeX entry)·
+Thinking Inside the BLAC Box: Smarter Protocols for Faster Anonymous Blacklisting (PDF) (Cached: PDF)
+by Ryan Henry and Ian Goldberg.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2013), Berlin, Germany, November 2013. (BibTeX entry)·
+Improved Group Off-The-Record Messaging (PDF) (Cached: PDF)
+by Hong Liu, Eugene Y. Vasserman, and Nicholas Hopper.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2013), Berlin, Germany, November 2013. (BibTeX entry)·
+Conscript Your Friends into Larger Anonymity Sets with JavaScript (PDF) (Cached: PDF)
+by Henry Corrigan-Gibbs and Bryan Ford.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2013), Berlin, Germany, November 2013. (BibTeX entry)·
+Users Get Routed: Traffic Correlation on Tor by Realistic Adversaries (PDF) (Cached: PDF)
+by Aaron Johnson, Chris Wacek, Rob Jansen, Micah Sherr, and Paul Syverson.
+In the Proceedings of the 20th ACM conference on Computer and Communications Security (CCS 2013), November 2013. (BibTeX entry)·
+Protocol Misidentification Made Easy with Format-Transforming Encryption (PDF) (Cached: PDF)
+by Kevin P. Dyer, Scott E. Coull, Thomas Ristenpart, and Thomas Shrimpton.
+In the Proceedings of the 20th ACM conference on Computer and Communications Security (CCS 2013), November 2013. (BibTeX entry)·
+Cover Your ACKs: Pitfalls of Covert Channel Censorship Circumvention (PDF) (Cached: PDF)
+by John Geddes, Maxfield Schuchard, and Nicholas Hopper.
+In the Proceedings of the 20th ACM conference on Computer and Communications Security (CCS 2013), November 2013. (BibTeX entry)·
+PCTCP: Per-Circuit TCP-over-IPsec Transport for Anonymous Communication Overlay Networks (PDF) (Cached: PDF)
+by Mashael AlSabah and Ian Goldberg.
+In the Proceedings of the 20th ACM conference on Computer and Communications Security (CCS 2013), November 2013. (BibTeX entry)·
+Hang with Your Buddies to Resist Intersection Attacks (PDF) (Cached: PDF)
+by David Wolinsky, Ewa Syta, and Bryan Ford.
+In the Proceedings of the 20th ACM conference on Computer and Communications Security (CCS 2013), November 2013. (BibTeX entry)·
+2014
+
+Systemization of Pluggable Transports for Censorship Resistance (PDF) (Cached: PDF)
+by Sheharbano Khattak, Laurent Simon, and Steven J. Murdoch.
+In CoRR abs/1412.7448, 2014. (BibTeX entry)·
+The Sniper Attack: Anonymously Deanonymizing and Disabling the Tor Network (PDF) (Cached: PDF)
+by Rob Jansen, Florian Tschorsch, Aaron Johnson, and Björn Scheuermann.
+In the Proceedings of the Network and Distributed Security Symposium - NDSS '14, February 2014. (BibTeX entry)·
+No Direction Home: The True Cost of Routing Around Decoys (PDF) (Cached: PDF)
+by Amir Houmansadr, Edmund L. Wong, and Vitaly Shmatikov.
+In the Proceedings of the Network and Distributed Security Symposium - NDSS '14, February 2014. (BibTeX entry)·
+Decentralized Anonymous Credentials (PDF) (Cached: PDF)
+by Christina Garman, Matthew Green, and Ian Miers.
+In the Proceedings of the Network and Distributed Security Symposium - NDSS '14, February 2014. (BibTeX entry)·
+Why Johnny Can't Blow the Whistle: Identifying and Reducing Usability Issues in Anonymity Systems (PDF) (Cached: PDF)
+by Greg Norcie, Jim Blythe, Kelly Caine, and L Jean Camp.
+In the Proceedings of the 2014 Workshop on Usable Security (USEC), February 2014. (BibTeX entry)·
+Challenges in protecting Tor hidden services from botnet abuse (PDF) (Cached: PDF)
+by Nicholas Hopper.
+In the Proceedings of Financial Cryptography and Data Security (FC'14), March 2014. (BibTeX entry)·
+On the Effectiveness of Traffic Analysis Against Anonymity Networks Using Flow Records (PDF) (Cached: PDF)
+by S. Chakravarty, M. V. Barbera, G. Portokalidis, M. Polychronakis, and A. D. Keromytis.
+In the Proceedings of the 15th Passive and Active Measurements Conference (PAM '14), March 2014. (BibTeX entry)·
+Formal Analysis of Chaumian Mix Nets with Randomized Partial Checking (PDF) (Cached: PDF)
+by Ralf Küsters, Tomasz Truderung, and Andreas Vogt.
+In the Proceedings of the 2014 IEEE Symposium on Security and Privacy, May 2014. (BibTeX entry)·
+$Re^3$: Relay Reliability Reputation for Anonymity Systems (PDF) (Cached: PDF)
+by Anupam Das, Nikita Borisov, Prateek Mittal, and Matthew Caesar.
+In the Proceedings of the 9th ACM Symposium on Information, Computer and Communications Security (ASIACCS 2014), June 2014. (BibTeX entry)·
+Exploiting Delay Patterns for User IPs Identification in Cellular Networks (PDF) (Cached: PDF)
+by Vasile Claudiu Perta, Marco Valerio Barbera, and Alessandro Mei.
+In the Proceedings of the 14th Privacy Enhancing Technologies Symposium (PETS 2014), July 2014. (BibTeX entry)·
+I Know Why You Went to the Clinic: Risks and Realization of HTTPS Traffic Analysis (PDF) (Cached: PDF)
+by Brad Miller, Ling Huang, A. D. Joseph, and J. D. Tygar.
+In the Proceedings of the 14th Privacy Enhancing Technologies Symposium (PETS 2014), July 2014. (BibTeX entry)·
+Do dummies pay off? Limits of dummy traffic protection in anonymous communications (PDF) (Cached: PDF)
+by Carmela Troncoso Oya and Fernando Pérez-González.
+In the Proceedings of the 14th Privacy Enhancing Technologies Symposium (PETS 2014), July 2014. (BibTeX entry)·
+Dovetail: Stronger Anonymity in Next-Generation Internet Routing (PDF) (Cached: PDF)
+by Jody Sankey and Matthew Wright.
+In the Proceedings of the 14th Privacy Enhancing Technologies Symposium (PETS 2014), July 2014. (BibTeX entry)·
+Spoiled Onions: Exposing Malicious Tor Exit Relays (PDF) (Cached: PDF)
+by Philipp Winter, Richard Köwer, Martin Mulazzani, Markus Huber, Sebastian Schrittwieser, Stefan Lindskog, and Edgar Weippl.
+In the Proceedings of the 14th Privacy Enhancing Technologies Symposium (PETS 2014), July 2014. (BibTeX entry)·
+Measuring Freenet in the Wild: Censorship-resilience under Observation (PDF) (Cached: PDF)
+by Stefanie Roos, Benjamin Schiller, Stefan Hacker, and Thorsten Strufe.
+In the Proceedings of the 14th Privacy Enhancing Technologies Symposium (PETS 2014), July 2014. (BibTeX entry)·
+CloudTransport: Using Cloud Storage for Censorship-Resistant Networking (PDF) (Cached: PDF)
+by Chad Brubaker, Amir Houmansadr, and Vitaly Shmatikov.
+In the Proceedings of the 14th Privacy Enhancing Technologies Symposium (PETS 2014), July 2014. (BibTeX entry)·
+Never Been KIST: Tor's Congestion Management Blossoms with Kernel-Informed Socket Transport (PDF) (Cached: PDF)
+by Rob Jansen, John Geddes, Chris Wacek, Micah Sherr, and Paul Syverson.
+In the Proceedings of 23rd USENIX Security Symposium (USENIX Security 14), San Diego, CA, August 2014. (BibTeX entry)·
+Effective Attacks and Provable Defenses for Website Fingerprinting (PDF) (Cached: PDF)
+by Tao Wang, Xiang Cai, Rishab Nithyanand, Rob Johnson, and Ian Goldberg.
+In the Proceedings of 23rd USENIX Security Symposium (USENIX Security 14), San Diego, CA, August 2014. (BibTeX entry)·
+TapDance: End-to-Middle Anticensorship without Flow Blocking (PDF) (Cached: PDF)
+by Eric Wustrow, Colleen M. Swanson, and J. Alex Halderman.
+In the Proceedings of 23rd USENIX Security Symposium (USENIX Security 14), San Diego, CA, August 2014. (BibTeX entry)·
+LibFTE: A Toolkit for Constructing Practical, Format-Abiding Encryption Schemes (PDF) (Cached: PDF)
+by Daniel Luchaup, Kevin P. Dyer, Somesh Jha, Thomas Ristenpart, and Thomas Shrimpton.
+In the Proceedings of 23rd USENIX Security Symposium (USENIX Security 14), San Diego, CA, August 2014. (BibTeX entry)·
+Security Audit of Safeplug ``Tor in a Box'' (PDF) (Cached: PDF)
+by Anne Edmundson, Anna Kornfeld Simpson, Joshua A. Kroll, and Edward W. Felten.
+In the Proceedings of 4th USENIX Workshop on Free and Open Communications on the Internet (FOCI 14), San Diego, CA, August 2014. (BibTeX entry)·
+Towards a Comprehensive Picture of the Great Firewall's DNS Censorship (PDF) (Cached: PDF)
+by Anonymous.
+In the Proceedings of 4th USENIX Workshop on Free and Open Communications on the Internet (FOCI 14), San Diego, CA, August 2014. (BibTeX entry)·
+CS-BuFLO: A Congestion Sensitive Website Fingerprinting Defense (PDF) (Cached: PDF)
+by Xiang Cai, Rishab Nithyanand, and Rob Johnson.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2014), November 2014. (BibTeX entry)·
+Glove: A Bespoke Website Fingerprinting Defense (PDF) (Cached: PDF)
+by Rishab Nithyanand, Xiang Cai, and Rob Johnson.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2014), November 2014. (BibTeX entry)·
+FARB: Fast Anonymous Reputation-Based Blacklisting without TTPs
+by Li Xi and Dengguo Feng.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2014), November 2014. (BibTeX entry)·
+Facet: Streaming over Videoconferencing for Censorship Circumvention (PDF) (Cached: PDF)
+by Shuai Li, Mike Schliep, and Nick Hopper.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2014), November 2014. (BibTeX entry)·
+Measuring the Leakage of Onion at the Root (PDF) (Cached: PDF)
+by Aziz Mohaisen and Matthew Thomas.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2014), November 2014. (BibTeX entry)·
+Tor IMUX: Managing Connections from Two to Infinity, and Beyond (PDF) (Cached: PDF)
+by John Geddes, Rob Jansen, and Nicholas Hopper.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2014), November 2014. (BibTeX entry)·
+A Systematic Approach to Developing and Evaluating Website Fingerprinting Defenses (PDF) (Cached: PDF)
+by Xiang Cai, Rishab Nithyanand, Tao Wang, Rob Johnson, and Ian Goldberg.
+In the Proceedings of the 21th ACM conference on Computer and Communications Security (CCS 2014), November 2014. (BibTeX entry)·
+A Critical Evaluation of Website Fingerprinting Attacks (PDF) (Cached: PDF)
+by Marc Juarez, Sadia Afroz, Gunes Acar, Claudia Diaz, and Rachel Greenstadt.
+In the Proceedings of the 21th ACM conference on Computer and Communications Security (CCS 2014), November 2014. (BibTeX entry)·
+(Nothing else) MATor(s): Monitoring the Anonymity of Tor's Path Selection (PDF) (Cached: PDF)
+by Michael Backes, Aniket Kate, Sebastian Meiser, and Esfandiar Mohammadi.
+In the Proceedings of the 21th ACM conference on Computer and Communications Security (CCS 2014), November 2014. (BibTeX entry)·
+The web never forgets: Persistent tracking mechanisms in the wild (PDF) (Cached: PDF)
+by Gunes Acar, Christian Eubank, Steven Englehardt, Marc Juarez, Arvind Narayanan, and Claudia Diaz.
+In the Proceedings of the 21th ACM conference on Computer and Communications Security (CCS 2014), November 2014. (BibTeX entry)·
+2015
+
+Blocking-resistant communication through domain fronting (HTML, PDF) (Cached: HTML, PDF)
+by David Fifield, Chang Lan, Rod Hynes, Percy Wegmann, and Vern Paxson.
+In Proceedings on Privacy Enhancing Technologies 2015(2), 2015, pages 46-64. (BibTeX entry)·
+Paying the Guard: an Entry-Guard-based Payment System for Tor (PDF) (Cached: PDF)
+by Paolo Palmieri and Johan Pouwelse.
+In the Proceedings of the 19th International Conference on Financial Cryptography and Data Security (FC 2015), January 2015. (BibTeX entry)·
+On the Impossibility of Efficient Self-Stabilization in Virtual Overlays with Churn (PDF) (Cached: PDF)
+by Stefanie Roos and Thorsten Strufe.
+In the Proceedings of IEEE INFOCOM 2015, April 2015. (BibTeX entry)·
+20,000 In League Under the Sea: Anonymous Communication, Trust, MLATs, and Undersea Cables (PDF) (Cached: PDF)
+by Aaron D. Jaggard, Aaron Johnson, Sarah Cortes, Paul Syverson, and Joan Feigenbaum.
+In Proceedings on Privacy Enhancing Technologies 2015(1), April 2015, pages 4-24. (BibTeX entry)·
+Riposte: An anonymous messaging system handling millions of users (PDF) (Cached: PDF)
+by Henry Corrigan-Gibbs, Dan Boneh, and David Mazières.
+In the Proceedings of the 36th IEEE Symposium on Security and Privacy (S&P 2015), San Jose, California, USA, May 2015, pages 321-338. (BibTeX entry)·
+Guard Sets for Onion Routing (PDF) (Cached: PDF)
+by Jamie Hayes and George Danezis.
+In Proceedings on Privacy Enhancing Technologies 2015(2), June 2015, pages 65-80. (BibTeX entry)·
+Defending Tor from Network Adversaries: A Case Study of Network Path Prediction (PDF, DOI) (Cached: PDF)
+by Joshua Juen, Aaron Johnson, Anupam Das, Nikita Borisov, and Matthew Caesar.
+In Proceedings on Privacy Enhancing Technologies 2015(2), June 2015, pages 171-187. (BibTeX entry)·
+DP5: A Private Presence Service (PDF) (Cached: PDF)
+by Nikita Borisov, George Danezis, and Ian Goldberg.
+In Proceedings on Privacy Enhancing Technologies 2015(2), June 2015. (BibTeX entry)·
+RAPTOR: Routing Attacks on Privacy in Tor (PDF) (Cached: PDF)
+by Yixin Sun, Anne Edmundson, Laurent Vanbever, Oscar Li, Jennifer Rexford, Mung Chiang, and Prateek Mittal.
+In the Proceedings of the 24th USENIX Security Symposium, August 2015. (BibTeX entry)·
+Circuit Fingerprinting Attacks: Passive Deanonymization of Tor Hidden Services (PDF) (Cached: PDF)
+by Albert Kwon, Mashael AlSabah, David Lazar, Marc Dacier, and Srinivas Devadas.
+In the Proceedings of the 24th Usenix Security Symposium, August 2015. (BibTeX entry)·
+Marionette: A Programmable Network Traffic Obfuscation System (PDF) (Cached: PDF)
+by Kevin P. Dyer, Scott E. Coull, and Thomas Shrimpton.
+In the Proceedings of the 24th Usenix Security Symposium, August 2015. (BibTeX entry)·
+Herd: A Scalable, Traffic Analysis Resistant Anonymity Network for VoIP Systems (PDF) (Cached: PDF)
+by Stevens Le Blond, David Choffnes, William Caldwell, Peter Druschel, and Nicholas Merritt.
+In the Proceedings of the ACM SIGCOMM 2015 Conference, August 2015. (BibTeX entry)·
+Vuvuzela: Scalable Private Messaging Resistant to Traffic Analysis (PDF) (Cached: PDF)
+by Jelle van den Hooff, David Lazar, Matei Zaharia, and Nickolai Zeldovich.
+In the Proceedings of the 25th ACM Symposium on Operating Systems Principles (SOSP 2015), Monterey, California, October 2015. (BibTeX entry)·
+Seeing Through Network-Protocol Obfuscation (PDF, DOI) (Cached: PDF)
+by Liang Wang, Kevin P. Dyer, Aditya Akella, Thomas Ristenpart, and Thomas Shrimpton.
+In the Proceedings of the 22nd ACM Conference on Computer and Communications Security (CCS '15), Denver, Colorado, USA, October 2015, pages 57-69. (BibTeX entry)·
+Rook: Using Video Games as a Low-Bandwidth Censorship Resistant Communication Platform (PDF) (Cached: PDF)
+by Paul Vines and Tadayoshi Kohno.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2015), October 2015. (BibTeX entry)·
+HORNET: High-speed Onion Routing at the Network Layer (PDF) (Cached: PDF)
+by Chen Chen, Daniele E. Asoni, David Barrera, George Danezis, and Adrian Perrig.
+In the Proceedings of the 22nd ACM Conference on Computer and Communications Security (CCS '15), October 2015. (BibTeX entry)·
+Caronte: Detecting Location Leaks for Deanonymizing Tor Hidden Services (PDF) (Cached: PDF)
+by Srdjan Matic, Platon Kotzias, and Juan Caballero.
+In the Proceedings of the 22nd ACM Conference on Computer and Communications Security (CCS '15), October 2015. (BibTeX entry)·
+Ting: Measuring and Exploiting Latencies Between All Tor Nodes (PDF) (Cached: PDF)
+by Frank Cangialosi, Dave Levin, and Neil Spring.
+In the Proceedings of the 2015 Internet Measurement Conference, October 2015. (BibTeX entry)·
+2016
+
+Do You See What I See? Differential Treatment of Anonymous Users (PDF) (Cached: PDF)
+by Sheharbano Khattak, David Fifield, Sadia Afroz, Mobin Javed, Srikanth Sundaresan, Damon McCoy, Vern Paxson, and Steven J. Murdoch.
+In the Proceedings of the Network and Distributed Security Symposium - NDSS '16, February 2016. (BibTeX entry)·
+Measuring and Mitigating AS-level Adversaries Against Tor (PDF) (Cached: PDF)
+by Rishab Nithyanand, Oleksii Starov, Phillipa Gill, Adva Zair, and Michael Schapira.
+In the Proceedings of the Network and Distributed Security Symposium - NDSS '16, February 2016. (BibTeX entry)·
+Website Fingerprinting at Internet Scale (PDF) (Cached: PDF)
+by Andriy Panchenko, Fabian Lanze, Jan Pennekamp, Thomas Engel, Andreas Zinnen, Martin Henze, and Klaus Wehrle.
+In the Proceedings of the Network and Distributed Security Symposium - NDSS '16, February 2016. (BibTeX entry)·
+Riffle: An Efficient Communication System With Strong Anonymity (PDF) (Cached: PDF)
+by Albert Kwon, David Lazar, Srinivas Devadas, and Bryan Ford.
+In Proceedings on Privacy Enhancing Technologies 2016(2), April 2016, pages 115-134. (BibTeX entry)·
+Mailet: Instant Social Networking under Censorship (PDF) (Cached: PDF)
+by Shuai Li and Nicholas Hopper.
+In Proceedings on Privacy Enhancing Technologies 2016(2), April 2016. (BibTeX entry)·
+Scalable and Anonymous Group Communication with MTor (PDF) (Cached: PDF)
+by Dong Lin, Micah Sherr, and Boon Thau Loo.
+In Proceedings on Privacy Enhancing Technologies 2016(2), April 2016. (BibTeX entry)·
+Your Choice MATor(s): Large-scale Quantitative Anonymity Assessment of Tor Path Selection Algorithms against Structural Attacks (PDF) (Cached: PDF)
+by Michael Backes, Sebastian Meiser, and Marcin Slowik.
+In Proceedings on Privacy Enhancing Technologies 2016(2), April 2016. (BibTeX entry)·
+CovertCast: Using Live Streaming to Evade Internet Censorship (PDF) (Cached: PDF)
+by Richard McPherson, Amir Houmansadr, and Vitaly Shmatikov.
+In Proceedings on Privacy Enhancing Technologies 2016(3), July 2016. (BibTeX entry)·
+Censors' Delay in Blocking Circumvention Proxies (PDF) (Cached: PDF)
+by David Fifield and Lynn Tsai.
+In the Proceedings of the USENIX Workshop on Free and Open Communications on the Internet, Austin, TX, USA, August 2016. (BibTeX entry)·
+Identifying and Characterizing Sybils in the Tor Network (PDF) (Cached: PDF)
+by Philipp Winter, Roya Ensafi, Karsten Loesing, and Nick Feamster.
+In the Proceedings of the 25th Usenix Security Symposium, August 2016. (BibTeX entry)·
+Off-Path TCP Exploits: Global Rate Limit Considered Dangerous (PDF) (Cached: PDF)
+by Yue Cao, Zhiyun Qian, Zhongjie Wang, Tuan Dao, Srikanth V. Krishnamurthy, and Lisa M. Marvel.
+In the Proceedings of the 25th Usenix Security Symposium, August 2016. (BibTeX entry)·
+Toward an Efficient Website Fingerprinting Defense (PDF) (Cached: PDF)
+by Marc Juarez, Mohsen Imani, Mike Perry, Claudia Diaz, and Matthew Wright.
+In the Proceedings of ESORICS 2016, September 2016. (BibTeX entry)·
+Salmon: Robust Proxy Distribution for Censorship Circumvention (PDF) (Cached: PDF)
+by Frederick Douglas, Rorshach, Weiyang Pan, and Matthew Caesar.
+In Proceedings on Privacy Enhancing Technologies 2016(4), October 2016. (BibTeX entry)·
+SoK: Making Sense of Censorship Resistance Systems (PDF) (Cached: PDF)
+by Sheharbano Khattak, Tariq Elahi, Laurent Simon, Colleen M. Swanson, Steven J. Murdoch, and Ian Goldberg.
+In Proceedings on Privacy Enhancing Technologies 2016(4), October 2016. (BibTeX entry)·
+A Framework for the Game-theoretic Analysis of Censorship Resistance (PDF) (Cached: PDF)
+by Tariq Elahi, John A. Doucette, Hadi Hosseini, Steven J. Murdoch, and Ian Goldberg.
+In Proceedings on Privacy Enhancing Technologies 2016(4), October 2016. (BibTeX entry)·
+Data-plane Defenses against Routing Attacks on Tor (PDF) (Cached: PDF)
+by Henry Tan, Micah Sherr, and Wenchao Zhou.
+In Proceedings on Privacy Enhancing Technologies 2016(4), October 2016. (BibTeX entry)·
+DeNASA: Destination-Naive AS-Awareness in Anonymous Communications (PDF) (Cached: PDF)
+by Armon Barton and Matthew Wright.
+In Proceedings on Privacy Enhancing Technologies 2016(4), October 2016. (BibTeX entry)·
+On Realistically Attacking Tor with Website Fingerprinting (PDF) (Cached: PDF)
+by Tao Wang and Ian Goldberg.
+In Proceedings on Privacy Enhancing Technologies 2016(4), October 2016. (BibTeX entry)·
+Safely Measuring Tor (PDF) (Cached: PDF)
+by Rob Jansen and Aaron Johnson.
+In the Proceedings of the 23rd ACM Conference on Computer and Communications Security (CCS '16), October 2016. (BibTeX entry)·
+Slitheen: Perfectly imitated decoy routing through traffic replacement (PDF) (Cached: PDF)
+by Cecylia Bocovich and Ian Goldberg.
+In the Proceedings of the 23rd ACM Conference on Computer and Communications Security (CCS '16), October 2016. (BibTeX entry)·
+Practical Censorship Evasion Leveraging Content Delivery Networks (PDF) (Cached: PDF)
+by Hadi Zolfaghari and Amir Houmansadr.
+In the Proceedings of the 23rd ACM Conference on Computer and Communications Security (CCS '16), October 2016. (BibTeX entry)·
+GAME OF DECOYS: Optimal Decoy Routing Through Game Theory (PDF) (Cached: PDF)
+by Milad Nasr and Amir Houmansadr.
+In the Proceedings of the 23rd ACM Conference on Computer and Communications Security (CCS '16), October 2016. (BibTeX entry)·
+ABRA CADABRA: Magically Increasing Network Utilization in Tor by Avoiding Bottlenecks (PDF) (Cached: PDF)
+by John Geddes, Michael Schliep, and Nicholas Hopper.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2016), November 2016. (BibTeX entry)·
+TASP: Towards Anonymity Sets that Persist (PDF) (Cached: PDF)
+by Jamie Hayes, Carmela Troncoso, and George Danezis.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2016), November 2016. (BibTeX entry)·
+PriFi: A Low-Latency and Tracking-Resistant Protocol for Local-Area Anonymous Communication (PDF) (Cached: PDF)
+by Ludovic Barman, Mahdi Zamani, Italo Dacosta, Joan Feigenbaum, Bryan Ford, Jean-Pierre Hubaux, and David Wolinsky.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2016), November 2016. (BibTeX entry)·
+2017
+
+The Onion Name System: Tor-powered Decentralized DNS for Tor Onion Services (PDF) (Cached: PDF)
+by Jesse Victors, Ming Li, and Xinwen Fu.
+In Proceedings on Privacy Enhancing Technologies 2017(1), January 2017. (BibTeX entry)·
+PHI: a Path-Hidden Lightweight Anonymity Protocol at Network Layer (PDF) (Cached: PDF)
+by Chen Chen and Adrian Perrig.
+In Proceedings on Privacy Enhancing Technologies 2017(1), January 2017. (BibTeX entry)·
+Phonion: Practical Protection of Metadata in Telephony Networks (PDF) (Cached: PDF)
+by Stephan Heuser, Bradley Reaves, Praveen Kumar Pendyala, Henry Carter, Alexandra Dmitrienko, William Enck, Negar Kiyavash, Ahmad-Reza Sadeghi, and Patrick Traynor.
+In Proceedings on Privacy Enhancing Technologies 2017(1), January 2017. (BibTeX entry)·
+Avoiding The Man on the Wire: Improving Tor's Security with Trust-Aware Path Selection (PDF) (Cached: PDF)
+by Aaron Johnson, Rob Jansen, Aaron D. Jaggard, Joan Feigenbaum, and Paul Syverson.
+In the Proceedings of the Network and Distributed Security Symposium - NDSS '17, February 2017. (BibTeX entry)·
+The Effect of DNS on Tor's Anonymity (PDF) (Cached: PDF)
+by Benjamin Greschbach, Tobias Pulls, Laura M. Roberts, Philipp Winter, and Nick Feamster.
+In the Proceedings of the Network and Distributed Security Symposium - NDSS '17, February 2017. (BibTeX entry)·
+Dissecting Tor Bridges: a Security Evaluation of their Private and Public Infrastructures (PDF) (Cached: PDF)
+by Srdjan Matic, Carmela Troncoso, and Juan Caballero.
+In the Proceedings of the Network and Distributed Security Symposium - NDSS '17, February 2017. (BibTeX entry)·
+HisTor: Differentially Private and Robust Statistics Collection for Tor (PDF) (Cached: PDF)
+by Akshaya Mani and Micah Sherr.
+In the Proceedings of the Network and Distributed Security Symposium - NDSS '17, February 2017. (BibTeX entry)·
+Privacy, Anonymity, and Perceived Risk in Open Collaboration: A Study of Tor Users and Wikipedians (PDF) (Cached: PDF)
+by Andrea Forte, Nazanin Andalibi, and Rachel Greenstadt.
+In the Proceedings of Computer-Supported Cooperative Work and Social Computing (CSCW), March 2017. (BibTeX entry)·
+PeerFlow: Secure Load Balancing in Tor (PDF) (Cached: PDF)
+by Aaron Johnson, Rob Jansen, Nicholas Hopper, Aaron Segal, and Paul Syverson.
+In Proceedings on Privacy Enhancing Technologies 2017(2), April 2017. (BibTeX entry)·
+Waterfilling: Balancing the Tor network with maximum diversity (PDF) (Cached: PDF)
+by Florentin Rochet and Olivier Pereira.
+In Proceedings on Privacy Enhancing Technologies 2017(2), April 2017. (BibTeX entry)·
+Website Fingerprinting Defenses at the Application Layer (PDF) (Cached: PDF)
+by Giovanni Cherubin, Jamie Hayes, and Marc Juarez.
+In Proceedings on Privacy Enhancing Technologies 2017(2), April 2017. (BibTeX entry)·
+Counter-RAPTOR: Safeguarding Tor Against Active Routing Attacks (PDF) (Cached: PDF)
+by Yixin Sun, Anne Edmundson, Nick Feamster, Mung Chiang, and Prateek Mittal.
+In the Proceedings of the 38th IEEE Symposium on Security and Privacy (S&P 2017), San Francisco, California, USA, May 2017. (BibTeX entry)·
+An ISP-Scale Deployment of TapDance (PDF) (Cached: PDF)
+by Sergey Frolov, Fred Douglas, Will Scott, Allison McDonald, Benjamin VanderSloot, Rod Hynes, Adam Kruger, Michalis Kallitsis, David G. Robinson, Nikita Borisov, Alex Halderman, and Eric Wustrow.
+In the Proceedings of the USENIX Workshop on Free and Open Communications on the Internet, Vancouver, Canada, August 2017. (BibTeX entry)·
+The Loopix Anonymity System (PDF) (Cached: PDF)
+by Ania Piotrowska, Jamie Hayes, Tariq Elahi, Sebastian Meiser, and George Danezis.
+In the Proceedings of the 26th Usenix Security Symposium, August 2017. (BibTeX entry)·
+Characterizing the Nature and Dynamics of Tor Exit Blocking (PDF) (Cached: PDF)
+by Rachee Singh, Rishab Nithyanand, Sadia Afroz, Paul Pearce, Michael Carl Tschantz, Phillipa Gill, and Vern Paxson.
+In the Proceedings of the 26th Usenix Security Symposium, August 2017. (BibTeX entry)·
+Walkie-Talkie: An Efficient Defense Against Passive Website Fingerprinting Attacks (PDF) (Cached: PDF)
+by Tao Wang and Ian Goldberg.
+In the Proceedings of the 26th Usenix Security Symposium, August 2017. (BibTeX entry)·
+TagIt: Tagging Network Flows using Blind Fingerprints (PDF) (Cached: PDF)
+by Fatemeh Rezaei and Amir Houmansadr.
+In Proceedings on Privacy Enhancing Technologies 2017(4), October 2017. (BibTeX entry)·
+Bayes, not Naïve: Security Bounds on Website Fingerprinting Defenses (PDF) (Cached: PDF)
+by Giovanni Cherubin.
+In Proceedings on Privacy Enhancing Technologies 2017(4), October 2017. (BibTeX entry)·
+Fingerprinting Past the Front Page: Identifying Keywords in Search Engine Queries over Tor (PDF) (Cached: PDF)
+by Se Eun Oh, Shuai Li, and Nicholas Hopper.
+In Proceedings on Privacy Enhancing Technologies 2017(4), October 2017. (BibTeX entry)·
+No right to remain silent: Isolating Malicious Mixes (HTML, PDF) (Cached: HTML, PDF)
+by Hemi Leibowitz, Ania Piotrowska, George Danezis, and Amir Herzberg.
+Cryptology ePrint Archive, Report 2017/1000, October 2017. (BibTeX entry)·
+Onions in the Crosshairs: When The Man really is out to get you
+by Aaron D. Jaggard and Paul Syverson.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2017), November 2017. (BibTeX entry)·
+Analysis of Fingerprinting Techniques for Tor Hidden Services (PDF) (Cached: PDF)
+by Andriy Panchenko, Asya Mitseva, Martin Henze, Fabian Lanze, Klaus Wehrle, and Thomas Engel.
+In the Proceedings of the Workshop on Privacy in the Electronic Society (WPES 2017), November 2017. (BibTeX entry)·
+Compressive Traffic Analysis: A New Paradigm for Scalable Traffic Analysis (PDF) (Cached: PDF)
+by Milad Nasr, Amir Houmansadr, and Arya Mazumdar.
+In the Proceedings of the 24th ACM Conference on Computer and Communications Security (CCS '17), November 2017. (BibTeX entry)·
+The Waterfall of Liberty: Decoy Routing Circumvention that Resists Routing Attacks (PDF) (Cached: PDF)
+by Milad Nasr, Hadi Zolfaghari, and Amir Houmansadr.
+In the Proceedings of the 24th ACM Conference on Computer and Communications Security (CCS '17), November 2017. (BibTeX entry)·
+How Unique is Your .onion? An Analysis of the Fingerprintability of Tor Onion Services (PDF) (Cached: PDF)
+by Rebekah Overdorf, Marc Juarez, Gunes Acar, Rachel Greenstadt, and Claudia Diaz.
+In the Proceedings of the 24th ACM Conference on Computer and Communications Security (CCS '17), November 2017. (BibTeX entry)·
+2018
+
+Guard Sets in Tor using AS Relationships (PDF) (Cached: PDF)
+by Mohsen Imani, Armon Barton, and Matthew Wright.
+In Proceedings on Privacy Enhancing Technologies 2018(1), January 2018. (BibTeX entry)·
+Inside Job: Applying Traffic Analysis to Measure Tor from Within (PDF) (Cached: PDF)
+by Rob Jansen, Marc Juarez, Rafa Gálvez, Tariq Elahi, and Claudia Diaz.
+In the Proceedings of the 25th Symposium on Network and Distributed System Security (NDSS '18), February 2018. (BibTeX entry)·
+Automated Website Fingerprinting through Deep Learning (PDF) (Cached: PDF)
+by Vera Rimmer, Davy Preuveneers, Marc Juarez, Tom Van Goethem, and Wouter Joosen.
+In the Proceedings of the 25th Symposium on Network and Distributed System Security (NDSS '18), February 2018. (BibTeX entry)·
+A Large-scale Analysis of Content Modification by Open HTTP Proxies (PDF) (Cached: PDF)
+by Giorgos Tsirantonakis, Panagiotis Ilia, Sotiris Ioannidis, Elias Athanasopoulos, and Michalis Polychronakis.
+In the Proceedings of the 25th Symposium on Network and Distributed System Security (NDSS '18), February 2018. (BibTeX entry)·
+Dropping on the Edge: Flexibility and Traffic Confirmation in Onion Routing Protocols (PDF) (Cached: PDF)
+by Florentin Rochet and Olivier Pereira.
+In Proceedings on Privacy Enhancing Technologies 2018(2), April 2018. (BibTeX entry)·
+Anonymity Trilemma: Strong Anonymity, Low Bandwidth Overhead, Low Latency — Choose Two (PDF) (Cached: PDF)
+by Debajyoti Das, Sebastian Meiser, Esfandiar Mohammadi, and Aniket Kate.
+In the Proceedings of the 39th IEEE Symposium on Security and Privacy (S&P 2018), San Francisco, California, USA, May 2018. (BibTeX entry)·
+Secure asymmetry and deployability for decoy routing systems (PDF) (Cached: PDF)
+by Cecylia Bocovich and Ian Goldberg.
+In Proceedings on Privacy Enhancing Technologies 2018(3), June 2018. (BibTeX entry)·
+Tempest: Temporal Dynamics in Anonymity Systems (PDF) (Cached: PDF)
+by Ryan Wails, Yixin Sun, Aaron Johnson, Mung Chiang, and Prateek Mittal.
+In Proceedings on Privacy Enhancing Technologies 2018(3), June 2018. (BibTeX entry)·
+How Do Tor Users Interact With Onion Services? (PDF) (Cached: PDF)
+by Philipp Winter, Anne Edmundson, Laura M. Roberts, Agnieszka Dutkowska-Zuk, Marshini Chetty, and Nick Feamster.
+In the Proceedings of the 27th Usenix Security Symposium, August 2018. (BibTeX entry)·
+Towards Predicting Efficient and Anonymous Tor Circuits (PDF) (Cached: PDF)
+by Armon Barton, Mohsen Imani, Jiang Ming, and Matthew Wright.
+In the Proceedings of the 27th Usenix Security Symposium, August 2018. (BibTeX entry)·
+Understanding Tor Usage with Privacy-Preserving Measurement (PDF) (Cached: PDF)
+by Akshaya Mani, T Wilson-Brown, Rob Jansen, Aaron Johnson, and Micah Sherr.
+In the Proceedings of the Internet Measurement Conference 2018 (IMC '18), October 2018. (BibTeX entry)·
+An Empirical Study of the I2P Anonymity Network and its Censorship Resistance (PDF) (Cached: PDF)
+by Nguyen Phong Hoang, Panagiotis Kintis, and Manos Antonakakis.
+In the Proceedings of the Internet Measurement Conference 2018 (IMC '18), October 2018. (BibTeX entry)·
+Deep Fingerprinting: Undermining Website Fingerprinting Defenses with Deep Learning (PDF) (Cached: PDF)
+by Payap Sirinam, Mohsen Imani, Marc Juarez, and Matthew Wright.
+In the Proceedings of the 25th ACM Conference on Computer and Communications Security (CCS '18), November 2018. (BibTeX entry)·
+Privacy-preserving Dynamic Learning of Tor Network Traffic (PDF) (Cached: PDF)
+by Rob Jansen, Matthew Traudt, and Nicholas Hopper.
+In the Proceedings of the 25th ACM Conference on Computer and Communications Security (CCS '18), November 2018. (BibTeX entry)·
+DeepCorr: Strong Flow Correlation Attacks on Tor Using Deep Learning (PDF) (Cached: PDF)
+by Milad Nasr, Alireza Bahramali, and Amir Houmansadr.
+In the Proceedings of the 25th ACM Conference on Computer and Communications Security (CCS '18), November 2018. (BibTeX entry)·
+Measuring Information Leakage in Website Fingerprinting Attacks and Defenses (PDF) (Cached: PDF)
+by Shuai Li, Huajun Guo, and Nicholas Hopper.
+In the Proceedings of the 25th ACM Conference on Computer and Communications Security (CCS '18), November 2018. (BibTeX entry)·
+KIST: Kernel-Informed Socket Transport for Tor (PDF) (Cached: PDF)
+by Rob Jansen, Matthew Traudt, John Geddes, Chris Wacek, Micah Sherr, and Paul Syverson.
+In ACM Transactions on Privacy and Security (TOPS) 22(1), December 2018, pages 3:1-3:37. (BibTeX entry)·
+2019
+
+The use of TLS in Censorship Circumvention (PDF) (Cached: PDF)
+by Sergey Frolov and Eric Wustrow.
+In the Proceedings of the 26th Symposium on Network and Distributed System Security (NDSS '19), February 2019. (BibTeX entry)·
+On the Challenges of Geographical Avoidance for Tor (PDF) (Cached: PDF)
+by Katharina Kohls, Kai Jansen, David Rupprecht, Thorsten Holz, and Christina Pöpper.
+In the Proceedings of the 26th Symposium on Network and Distributed System Security (NDSS '19), February 2019. (BibTeX entry)·
+Enemy At the Gateways: Censorship-Resilient Proxy Distribution Using Game Theory (PDF) (Cached: PDF)
+by Milad Nasr, Sadegh Farhang, Amir Houmansadr, and Jens Grossklags.
+In the Proceedings of the 26th Symposium on Network and Distributed System Security (NDSS '19), February 2019. (BibTeX entry)·
+On Privacy Notions in Anonymous Communication (PDF) (Cached: PDF)
+by Christiane Kuhn, Martin Beck, Stefan Schiffner, Eduard Jorswieck, and Thorsten Strufe.
+In Proceedings on Privacy Enhancing Technologies 2019(2), April 2019. (BibTeX entry)·
+DPSelect: A Differential Privacy Based Guard Relay Selection Algorithm for Tor (PDF) (Cached: PDF)
+by Hans Hanley, Yixin Sun, Sameer Wagh, and Prateek Mittal.
+In Proceedings on Privacy Enhancing Technologies 2019(2), April 2019. (BibTeX entry)·
+Privacy, Anonymity, and Perceived Risk in Open Collaboration: A Study of Service Providers (PDF) (Cached: PDF)
+by Andrea Forte, Nazanin Andalibi, and Rachel Greenstadt.
+In the Proceedings of Conference on Human Factors in Computing Systems (CHI), May 2019. (BibTeX entry)·
+ConsenSGX: Scaling Anonymous Communications Networks with Trusted Execution Environments (PDF) (Cached: PDF)
+by Sajin Sasy and Ian Goldberg.
+In Proceedings on Privacy Enhancing Technologies 2019(3), July 2019. (BibTeX entry)·
+Point Break: A Study of Bandwidth Denial-of-Service Attacks against Tor (PDF) (Cached: PDF)
+by Rob Jansen, Tavish Vaidya, and Micah Sherr.
+In the Proceedings of the 28th USENIX Security Symposium (Sec '19), August 2019. (BibTeX entry)·
+Guard Placement Attacks on Location-Based Path Selection Algorithms in Tor
+by Gerry Wan, Aaron Johnson, Ryan Wails, Sameer Wagh, and Prateek Mittal.
+In Proceedings on Privacy Enhancing Technologies 2019(4), October 2019. (BibTeX entry)·
+Tailoring Onion Routing to the Internet of Things: Security and Privacy in Untrusted Environments (PDF) (Cached: PDF)
+by Jens Hiller, Jan Pennekamp, Markus Dahlmanns, Martin Henze, Andriy Panchenko, and Klaus Wehrle.
+In the Proceedings of the 27th IEEE International Conference on Network Protocols (ICNP '19), October 2019. (BibTeX entry)·
+Multipathing Traffic to Reduce Entry Node Exposure in Onion Routing (PDF) (Cached: PDF)
+by Jan Pennekamp, Jens Hiller, Sebastian Reuter, Wladimir De la Cadena, Asya Mitseva, Martin Henze, Thomas Engel, Klaus Wehrle, and Andriy Panchenko.
+In the Proceedings of the 27th IEEE International Conference on Network Protocols (ICNP '19), October 2019. (BibTeX entry)·
+2020
+
+Detecting Probe-resistant Proxies (PDF) (Cached: PDF)
+by Sergey Frolov, Jack Wampler, and Eric Wustrow.
+In the Proceedings of the 27th Symposium on Network and Distributed System Security (NDSS '20), February 2020. (BibTeX entry)·
+MassBrowser: Unblocking the Censored Web for the Masses, by the Masses (PDF) (Cached: PDF)
+by Milad Nasr, Hadi Zolfaghari, Amir Houmansadr, and Amirhossein Ghafari.
+In the Proceedings of the 27th Symposium on Network and Distributed System Security (NDSS '20), February 2020. (BibTeX entry)·
+Encrypted DNS -> Privacy? A Traffic Analysis Perspective (PDF) (Cached: PDF)
+by Sandra Siby, Marc Juarez, Claudia Diaz, Narseo Vallina-Rodriguez, and Carmela Troncoso.
+In the Proceedings of the 27th Symposium on Network and Distributed System Security (NDSS '20), February 2020. (BibTeX entry)·
+Bypassing Tor Exit Blocking with Exit Bridge Onion Services (PDF) (Cached: PDF)
+by Zhao Zhang, Wenchao Zhou, and Micah Sherr.
+In the Proceedings of the 27th ACM Conference on Computer and Communications Security (CCS '20), November 2020. (BibTeX entry)·
+CLAPS: Client-Location-Aware Path Selection in Tor (PDF) (Cached: PDF)
+by Florentin Rochet, Ryan Wails, Aaron Johnson, Prateek Mittal, and Olivier Pereira.
+In the Proceedings of the 27th ACM Conference on Computer and Communications Security (CCS '20), November 2020. (BibTeX entry)·
+Poking a Hole in the Wall: Efficient Censorship-Resistant Internet Communications by Parasitizing on WebRTC (PDF) (Cached: PDF)
+by Diogo Barradas, Nuno Santos, Luis Rodrigues, and Vítor Nunes.
+In the Proceedings of the 27th ACM Conference on Computer and Communications Security (CCS '20), November 2020. (BibTeX entry)·
+TrafficSliver: Fighting Website Fingerprinting Attacks with Traffic Splitting (PDF) (Cached: PDF)
+by Wladimir De la Cadena, Asya Mitseva, Jens Hiller, Jan Pennekamp, Sebastian Reuter, Julian Filter, Klaus Wehrle, Thomas Engel, and Andriy Panchenko.
+In the Proceedings of the 27th ACM Conference on Computer and Communications Security (CCS '20), November 2020. (BibTeX entry)·
+
+Please send new or corrected entries to <anonbib@freehaven.net>. 
+If you can, please format them as BibTeX; see our BibTeX source page for examples.
+
+Remember to include URLs if possible: offline papers are less useful.
+
+The source code to anonbib is now in Git. See the anonbib gitweb page for more information.
+
+When submitting, please try to match the format of our entries in anonbib.bib. Our tools do not work on arbitrary bibtex, and hand-cleaning entries can significantly delay us.
+
+
+
+
 
 Theme
 Previous Version Docs
@@ -4496,4 +6209,4 @@ Contribute
 Privacy & Cookies
 Terms of Use
 Trademarks
-© Microsoft 2021
+© Microsoft 2021 & (H) Blever.MTV 2021
